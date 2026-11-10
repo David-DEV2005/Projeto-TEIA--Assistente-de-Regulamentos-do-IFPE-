@@ -1,0 +1,19 @@
+{
+  "descricao": "Conjunto pequeno de verificacao da busca (Etapa 2.5). Um chunk conta como acerto se o texto contiver TODAS as expressoes de deve_conter (sem acento e sem diferenca de maiusculas).",
+  "perguntas": [
+    {"id": "q01", "pergunta": "Até quando posso pagar a taxa de inscrição?", "deve_conter": ["14/10 a 13/11/2026"]},
+    {"id": "q02", "pergunta": "Qual o valor da taxa de inscrição para cursos de graduação?", "deve_conter": ["R$ 55"]},
+    {"id": "q03", "pergunta": "Quantas vagas são oferecidas em cursos de graduação?", "deve_conter": ["940 vagas"]},
+    {"id": "q04", "pergunta": "Haverá tempo adicional na prova para pessoas com deficiência?", "deve_conter": ["1 (uma) hora a mais"]},
+    {"id": "q05", "pergunta": "Qual a data da divulgação do resultado final das provas?", "deve_conter": ["resultado final das provas", "21/12/2026"]},
+    {"id": "q06", "pergunta": "Quando começam as aulas no campus Ipojuca?", "deve_conter": ["Ipojuca", "27/1/2027"]},
+    {"id": "q07", "pergunta": "Como é feita a verificação da autodeclaração de pessoas pretas e pardas?", "deve_conter": ["fenótipo"]},
+    {"id": "q08", "pergunta": "Quais documentos preciso para o pedido de isenção da taxa de inscrição?", "deve_conter": ["CadÚnico"]},
+    {"id": "q09", "pergunta": "O que significa a sigla LB_PPI?", "deve_conter": ["LB_PPI", "Pretos, pardos ou indígenas"]},
+    {"id": "q10", "pergunta": "Quais vagas existem para Licenciatura em Química no campus Barreiros?", "deve_conter": ["Barreiros", "Licenciatura em Química"]},
+    {"id": "q11", "pergunta": "Posso levar acompanhante para amamentar durante a prova?", "deve_conter": ["lactante"]},
+    {"id": "q12", "pergunta": "A que horas abrem os portões no dia da prova?", "deve_conter": ["Abertura dos portões"]},
+    {"id": "q13", "pergunta": "Qual o prazo para pedir a isenção da taxa de inscrição?", "deve_conter": ["14/10 a 26/10/2026"]},
+    {"id": "q14", "pergunta": "Quando será publicada a lista final de isentos?", "deve_conter": ["Lista Final de Isentos", "9/11/2026"]}
+  ]
+}
