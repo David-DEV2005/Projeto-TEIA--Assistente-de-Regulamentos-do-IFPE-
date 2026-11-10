@@ -92,13 +92,17 @@ def responder(pergunta, selecao=None, versao=None, k=None):
         if rotulo not in vistos:                     # evita citar duas vezes o mesmo item
             vistos.add(rotulo)
             fontes.append({"id": r["id"], "rotulo": rotulo})
-    saida.update(fontes=fontes, tempos={"busca": round(t_busca, 1), "llm": round(t_llm, 1)})
+    saida.update(
+        fontes=fontes,
+        recuperados=[{"id": r["id"], "rotulo": rotulo_fonte(r["meta"]), "texto": r["texto"]} for r in resultados],
+        tempos={"busca": round(t_busca, 1), "llm": round(t_llm, 1)},
+    )
     return saida
 
 
 def main():
     if len(sys.argv) < 2:
-        sys.exit('Uso: python src/rag/gerar.py "pergunta" [prova|historico|-] [v1|v2]')
+        sys.exit('Uso: python src/rag/gerar.py "pergunta" [prova|historico|-] [v1|v2|v3]')
     selecao = sys.argv[2] if len(sys.argv) > 2 and sys.argv[2] != "-" else None
     versao = sys.argv[3] if len(sys.argv) > 3 else None
     s = responder(sys.argv[1], selecao, versao)

@@ -1,6 +1,6 @@
 {
   "resumo": {
-    "data": "2026-11-10T14:57:58",
+    "data": "2026-11-10T16:00:15",
     "versao_prompt": "v3",
     "total": 20,
     "ok": 14,
@@ -26,9 +26,36 @@
       "encontrou": false,
       "resposta": "Não encontrei essa informação no edital.",
       "fontes": [],
+      "recuperados": [
+        {
+          "id": "anexo-G-17",
+          "rotulo": "Anexo G - ASSUNTOS DA PROVA (p. 70)",
+          "texto": "as redes de comércio e conhecimento no Sahel. 5. A modernidade ocidental e as revoluções: 5.1 O Renascimento e a valorização do ser humano e da ciência. 5.2 Reformas religiosas e disputas por hegemonia religiosa e política. 5.3 Mercantilismo, absolutismo e a expansão marítima europeia. 5.4 Revoluções inglesas, Iluminismo, Revolução Francesa, Revolução Industrial e transformações sociais.\n5.5 Socialismos, lutas de classes e o movimento operário. 6. Américas antes e depois da colonização: 6.1 Povos ameríndios: formas de organização social, política e religiosa. 6.2 A colonização europeia. 6.3 Resistências indígena e africana nas Américas. 7. A colonização portuguesa no Brasil: 7.1 Organização política e administrativa. 7.2 Economia colonial. 7.3 Cultura, religião e cotidiano colonial. 7.4\nTrabalho compulsório e resistências indígenas e africanas. 7.5 Rebeliões e movimentos emancipacionistas. 8. O Brasil no século"
+        },
+        {
+          "id": "anexo-G-5",
+          "rotulo": "Anexo G - ASSUNTOS DA PROVA (p. 68)",
+          "texto": "degradação dos solos. 5. Dinâmica climática mundial e brasileira. 6. As águas do planeta, sua caracterização e importância. 6.1 Águas brasileiras: aspectos ambientais e políticos. 7. Formação vegetal no mundo e no Brasil. 8. A questão ambiental e sustentabilidade. 8.1\nO debate ambiental diante das mudanças climáticas. 9. As novas dinâmicas da população mundial e brasileira. 10. Urbanização no mundo e no Brasil. 11. Energia no mundo e a questão energética no Brasil. 12. O espaço agrário no mundo e a questão agrária no Brasil.\n13. O processo de globalização da economia mundial. 13.1 A tendência de desglobalização no mundo atual. 14. A industrialização mundial e brasileira. 15. As características e conflitos dos principais atores da geopolítica mundial na atualidade. 16. Dinâmica regional brasileira.\nPROGRAMA DE CONHECIMENTOS GERAIS – HISTÓRIA\n1. O Mundo Contemporâneo. 1.1 Totalitarismos e Segunda Guerra Mundial: fascismo, nazismo, o Holocausto e outras vítimas do totalitarismo; causas, alianças e etapas da Segunda Guerra Mundial; os impactos globais da guerra, a criação da ONU e os debates sobre Direitos Humanos. 1.2 A Guerra Fria: conflitos ideológicos, políticos e militares entre Estados Unidos e União Soviética; corrida armamentista e espacial; a Revolução Chinesa e as tensões sino-soviéticas; a Revolução Cubana e suas repercussões na América Latina e nos Estados Unidos. 1.3 A Descolonização da África e Ásia: a crise do colonialismo após a Segunda Guerra Mundial; nacionalismos africanos e asiáticos; tensões no Oriente Médio e a questão da Palestina. 1.4 A América Latina no pós-Segunda Guerra Mundial:\ntransformações políticas e sociais nos países latino-americanos; ditaduras civis e militares e suas relações com a Guerra Fria; lutas"
+        },
+        {
+          "id": "anexo-G-12",
+          "rotulo": "Anexo G - ASSUNTOS DA PROVA (pp. 69-70)",
+          "texto": "formação de imagens em espelhos planos e esféricos. 4.3 Refração da luz e suas leis, dióptros planos, lentes delgadas e a formação de imagens. 5. Eletricidade. 5.1 Carga elétrica e sua conservação, condutores e isolantes de eletricidade, processos de eletrização. 5.2\nForça elétrica e a Lei de Coulomb. 5.3 Campo elétrico de cargas elétricas puntiformes e campo elétrico uniforme. 5.4 Potencial elétrico de cargas elétricas puntiformes. Superfícies equipotenciais. 5.5 Corrente elétrica e as leis de Ohm. 5.6 Associação de resistores.\n5.7 Circuitos elétricos contendo geradores e receptores. 5.8 Circuitos elétricos simples contendo amperímetros, voltímetros e a ponte de Wheatstone. 5.9 Campo magnético de partículas eletrizadas e de correntes elétricas. 5.10 Força magnética em partículas eletrizadas e em condutores percorridos por corrente elétrica. 5.11 Fluxo de campo magnético, leis de Faraday e Lenz. 6. Ondulatória.\n6.1 Movimento harmônico simples. 6.2 Conceito e classificação das ondas. 6.3 Equação fundamental das ondas e função de onda. 6.4\nFenômenos ondulatórios: Reflexão, Refração, Difração, Polarização, Interferência, Efeito Doppler.\nPROGRAMA DE QUÍMICA\nTransformações Químicas - Evidências de transformações químicas. Interpretando transformações químicas. Sistemas Gasosos: Lei dos gases. Equação geral dos gases ideais, Princípio de Avogadro, conceito de molécula; massa molar, volume molar dos gases.\nTeoria cinética dos gases. Misturas gasosas. Modelo corpuscular da matéria. Modelo atômico de Dalton. Natureza elétrica da matéria: Modelo Atômico de Thomson, Rutherford, Rutherford-Bohr. Átomos e sua estrutura. Número atômico, número de massa, isótopos, massa atômica. Elementos químicos e Tabela Periódica. Reações químicas. Representação das transformações químicas"
+        },
+        {
+          "id": "anexo-G-6",
+          "rotulo": "Anexo G - ASSUNTOS DA PROVA (p. 68)",
+          "texto": "por justiça social e os movimentos de resistência. 1.5 A globalização, o neoliberalismo: transformações tecnológicas, econômicas e culturais a partir da década de 1970; a crise do socialismo real e o fim da Guerra Fria; os impactos do neoliberalismo na América Latina;\na ascensão da China como potência global; desigualdades, identidades e conflitos no mundo globalizado. 2. O Brasil Contemporâneo.\n2.1 A República Oligárquica (1895-1930): aspectos políticos, sociais, econômicos e culturais; a inserção dos negros no pós-abolição:\nexclusão social e resistência; as reivindicações das populações indígenas e as políticas de assimilação; o protagonismo feminino e os primeiros movimentos feministas. 2.2 A Era Vargas (1930-1945): aspectos políticos, sociais, econômicos e culturais; a imprensa negra e a cultura afro-brasileira como elemento de resistência e superação das discriminações; as reivindicações das populações indígenas e as políticas de tutela e controle estatal; as mulheres no mercado de trabalho, na política e nas lutas sociais. 2.3 A experiência liberaldemocrática (1946-1964): aspectos políticos, sociais, econômicos e culturais; movimento negro, cultura e sociedade em tempos de efervescência social e política; as reivindicações das populações indígenas e a continuidade das políticas de tutela e assimilação;\nmovimentos de mulheres e suas pautas no cenário político. 2.4 A Ditadura Civil-Militar (1964-1985): aspectos políticos, sociais, econômicos e culturais; a violência contra populações marginalizadas. 2.5 A Nova República (1985-2010): aspectos políticos, sociais, econômicos e culturais; processo de redemocratização, a Constituição de 1988 e a defesa da cidadania, as lutas por igualdade racial e de gênero.\nCURSOS DE GRADUAÇÃO\nPROGRAMA DE LÍNGUA PORTUGUESA"
+        },
+        {
+          "id": "anexo-G-11",
+          "rotulo": "Anexo G - ASSUNTOS DA PROVA (p. 69)",
+          "texto": "do Ecossistema. 8.2 Cadeias e Teias Alimentares. 8.3 Relações Ecológicas entre os seres vivos. 8.4 Biomas brasileiros. 8.5 Fatores de\nDesequilíbrio Ambiental. 9. Programa de Saúde.\nPROGRAMA DE FÍSICA\n1. Grandezas Físicas. 1.1 Grandezas escalares e vetoriais. 1.2 Sistema Internacional de unidades. 2. Mecânica. 2.1 Conceitos básicos para o estudo da cinemática. 2.2 Movimentos uniforme e uniformemente variado em trajetória retilínea. 2.3 Vetores, operação com vetores e cinemática vetorial. 2.4 Movimento circular uniforme. 2.5 As leis de Newton e suas aplicações. Forças peso, normal, centrípeta e elástica. 2.6 Atrito estático e dinâmico. 2.7 Impulso, quantidade de movimento e sua conservação. 2.8 Trabalho de uma força; energias cinética, potencial gravitacional e elástica; energia mecânica e sua conservação. 2.9 Potência mecânica e rendimento de uma máquina. 2.10 Equilíbrio da partícula. 2.11 Momento de uma força, Teorema de Varignon e o equilíbrio do corpo extenso.\n2.12 Densidade absoluta, relativa, pressão hidrostática e atmosférica, princípios de Stevin, Pascal e Arquimedes e o equilíbrio dos corpos flutuantes. 2.13 As leis de Kepler e o movimento planetário, Lei da Gravitação Universal dos corpos em órbita. 3. Termologia.\n3.1 Conceitos de temperatura, calor e equilíbrio térmico. 3.2 Escalas termométricas. 3.3 Calor específico, capacidade térmica e trocas de calor. 3.4 As mudanças de estado físico e calor específico latente. 3.5 Calorímetros. 3.6 Dilatação térmica dos sólidos e líquidos. 3.7\nComportamento térmico dos gases perfeitos, transformações gasosas e suas leis. 3.8 Termodinâmica e suas leis, máquinas térmicas e o ciclo de Carnot. 4. Óptica Geométrica. 4.1 Conceitos básicos e princípios da óptica geométrica. 4.2 Reflexão da luz e suas leis,"
+        }
+      ],
       "tempos": {
-        "busca": 6.4,
-        "llm": 28.2
+        "busca": 5.4,
+        "llm": 29.3
       }
     },
     {
@@ -43,9 +70,36 @@
       "encontrou": false,
       "resposta": "Não encontrei essa informação no edital.",
       "fontes": [],
+      "recuperados": [
+        {
+          "id": "anexo-J-1",
+          "rotulo": "Anexo J - PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL (p. 74)",
+          "texto": "PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL\nCURSO TÉCNICO SUBSEQUENTE EM INSTRUMENTO MUSICAL DO CAMPUS BARREIROS\nO candidato ou a candidata deverá executar o programa relativo ao instrumento indicado no ato da inscrição.\nClarinete\n●     Execução de escala cromática com extensão de três oitavas (partindo do Mi2 ao Mi5).\n●   Execução de uma escala maior com até 3 alterações (sustenido ou bemol) e suas relativas escalas menores harmônicas.\n●   Execução de trecho do Estudo n° 3 (rondó) extraído do Método Completo para Clarinete\n(KLOSÉ, 1988, p.158).\n●     Execução de uma peça ou estudo de livre escolha.\nBibliografia sugerida: KLOSÉ, Hyacinthe Eléonor. Método Completo para Clarinete. Milão: Editora\nRicordi. 1988, 215p.\nTrompete\n●    Execução de uma escala maior com até 3 alterações (sustenido ou bemol) e suas relativas escalas menores harmônicas.\n●     Execução do Estudo nº 1 extraído do método Concone.\n●     Execução de uma peça ou estudo de livre escolha.\nBibliografia sugerida: SAWYER, J. (Transc.). Concone. Nashville: The Brass Press, 1972. 41.\nTrombone\n●    Execução de uma escala maior com até 3 alterações (sustenido ou bemol) e suas relativas escalas menores harmônicas.\n●   Execução do Estudo nº 1 Moderato extraído do método para trombone Forty progressive\nEtudes for trombone, de Sigmund Hering p. 3.\n●     Execução de peça ou estudo de livre escolha.\nBibliografia sugerida: HERING, Sigmund. 40 Progressive Etudes for Trombone, Student book.\nStandard notation. Published by Carl Fischer. 1945. 42 p.\nViolão\nPopular\n●     Execução de uma escala maior com até 3 alterações (sustenido ou bemol) e suas relativas escalas menores harmônicas.\n●      Execução da Música Anos Dourados de Tom Jobim e Chico Buarque.\n●       Execução de peça ou estudo de livre escolha."
+        },
+        {
+          "id": "anexo-I-3",
+          "rotulo": "Anexo I - PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL/VOCAL (p. 73)",
+          "texto": "MED, Bohumil. Teoria da Música - 4ª edição revista e ampliada. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Volume I. Brasil: Casa Oliveira de Músicas, 2003.\nGUITARRA\nExercício – Executar 2 (duas) peças de livre escolha;\nVIOLÃO\nExercício - Executar 2 (duas) peças de livre escolha;\nPIANO\nExercício - Peça de Livre escolha do candidato ou da candidata para piano popular (solo).\nCANTO POPULAR\n1º Exercício - Executar um dos gêneros musicais pertencentes aos seguintes movimentos: samba, bossa nova, jovem guarda ou rock nacional.\n2º Exercício - Executar uma canção da Música Popular Brasileira de livre escolha do candidato ou da candidata.\nObs.: O gênero musical selecionado para o 2º Exercício deve obrigatoriamente diferir do gênero musical do 1º Exercício.\nEUFÔNIO\n1º Exercício - Estudo nº 1 do Johannes Rochut;\n2º Exercício - Choro “Vou vivendo” - Pixinguinha;\n3º Exercício - Execução de Escalas Diatônicas Maiores e Menores (escolhidas pela banca no momento da avaliação)\nBibliografia sugerida:\nMED, Bohumil. Teoria da Música - 4ª edição revista e ampliada. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Volume I. Brasil: Casa Oliveira de Músicas."
+        },
+        {
+          "id": "anexo-I-1",
+          "rotulo": "Anexo I - PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL/VOCAL (p. 72)",
+          "texto": "PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL/VOCAL\nCURSO DE LICENCIATURA EM MÚSICA DO CAMPUS BELO JARDIM\nO candidato ou a candidata deverá executar o programa relativo ao instrumento indicado no ato da inscrição.\nFLAUTA TRANSVERSAL\n1º Exercício - Tocar 1 (uma) peça para flauta de livre escolha, selecionada a partir do repertório da música popular brasileira.\n2º Exercício - Execução de Escalas Diatônicas Maiores e Menores (escolhidas pela banca no momento da avaliação).\nBibliografia sugerida:\nMED, Bohumil. Teoria da Música - 4ª edição revista e ampliada. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Volume I. Brasil: Casa Oliveira de Músicas, 2003.\nCLARINETE\n1º Exercício - Peça de Livre escolha do candidato ou da candidata.\n2º Exercício - Execução de Escalas Diatônicas Maiores e Menores (escolhidas pela banca no momento da avaliação).\nBibliografia sugerida:\nMED, Bohumil. Teoria da Música - 4ª edição revista e ampliada. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Volume I. Brasil: Casa Oliveira de Músicas, 2003.\nSAXOFONE\n1º Exercício - Peça de livre escolha do/a candidato/a que seja, obrigatoriamente, de algum gênero de música brasileira;\n2º Exercício - Execução de Escalas Diatônicas Maiores e Menores (escolhidas pela banca no momento da avaliação).\nBibliografia sugerida:\nMED, Bohumil. Teoria da Música - 4ª edição revista e ampliada. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Volume I. Brasil: Casa Oliveira de Músicas, 2003.\nTROMPETE\n1º Exercício – Execução de duas peças de livre escolha candidato ou da candidata, sendo obrigatória a seleção de obras pertencentes a gêneros musicais diferentes."
+        },
+        {
+          "id": "anexo-I-2",
+          "rotulo": "Anexo I - PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL/VOCAL (pp. 72-73)",
+          "texto": "2º Exercício – Execução de escalas diatônicas maiores e menores (escolhidas pela banca no momento da avaliação).\nBibliografia sugerida:\nMED, Bohumil. Teoria da Música. 4ª ed. rev. e ampl. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Vol. I. Brasil: Casa Oliveira de Músicas, 2003\nTROMBONE DE VARA\n1º Exercício - Estudo nº 1 do Johannes Rochut;\n2º Exercício - Choro “Paraquedista”, de José Leocádio.\n3º Exercício - Execução de Escalas Diatônicas Maiores e Menores (escolhidas pela banca no momento da avaliação)\nBibliografia sugerida:\nMED, Bohumil. Teoria da Música - 4ª edição revista e ampliada. Brasília-DF: Musimed, 1996.\nPRIOLLI, Maria Luisa de M. Princípios Básicos da Música para Juventude, Volume I. Brasil: Casa Oliveira de Músicas, 2003.\nBATERIA/ PERCUSSÃO\n1º Exercício - O candidato ou a candidata deve tocar, na bateria, 2 (dois) dos seguintes ritmos: frevo, maracatu, samba, baião, ou um desses ritmos mais um ritmo de livre escolha.\n2º Exercício - O candidato ou a candidata deve tocar 2 (dois) dos seguintes ritmos no pandeiro: frevo, baião, xaxado, xote, coco e samba.\n3º Exercício - O candidato ou a candidata deve tocar 2 (dois) dos seguintes ritmos na zabumba: baião, xaxado, xote, coco e samba.\n4º Exercício - O candidato ou a candidata deve tocar 4 (quatro) rudimentos de livre escolha.\nObs.: Os rudimentos a serem apresentados devem fazer parte dos 40 rudimentos publicados pela PAS - Percussive Arts\nSociety.\nTUBA\n1º Exercício - Estudo nº 2 do Marco Bordogni (Estudos Melódicos);\n2º Exercício - Choro “Vou vivendo” - Pixinguinha;\n3º Exercício - Execução de Escalas Diatônicas Maiores e Menores (escolhidas pela banca no momento da avaliação)\nBibliografia sugerida:"
+        },
+        {
+          "id": "anexo-J-2",
+          "rotulo": "Anexo J - PROGRAMA PARA A AVALIAÇÃO DA PERFORMANCE INSTRUMENTAL (p. 74)",
+          "texto": "Bibliografia sugerida: CARLEVARO, Abel. Carlevaro masterclass - Villa Lobos - 5. 1ª ed. Pacific MO.\nMel Bay Publications, 1987. CHEDIAK, Almir. Dicionário de acordes cifrados. 1ª ed. São Paulo:\nIrmãos Vitale, 1984."
+        }
+      ],
       "tempos": {
-        "busca": 5.0,
-        "llm": 27.0
+        "busca": 3.5,
+        "llm": 27.8
       }
     },
     {
@@ -60,9 +114,36 @@
       "encontrou": false,
       "resposta": "Não encontrei essa informação no edital.",
       "fontes": [],
+      "recuperados": [
+        {
+          "id": "item-11.2",
+          "rotulo": "11 COMO PEDIR A REVISÃO DAS QUESTÕES DA PROVA OBJETIVA? > 11.2 COMO FAZER PARA PEDIR REVISÃO DO RESULTADO PRELIMINAR DAS PROVAS? (p. 31)",
+          "texto": "O resultado preliminar das provas objetiva e dissertativa, com a pontuação obtida por cada candidato ou candidata, será divulgado na data indicada no ANEXO B (Datas Importantes). O resultado estará disponível no site Portal IFPE (portal.ifpe.edu.br).\nO candidato ou a candidata que discordar do resultado preliminar da prova objetiva ou da prova discursiva poderá enviar pedido de revisão pela Área da Pessoa Candidata, dentro do prazo indicado no ANEXO B.\nOs pedidos de revisão serão analisados e o resultado dessa análise será publicado junto com o resultado final das provas objetivas e da redação."
+        },
+        {
+          "id": "item-19",
+          "rotulo": "19 COMO SERÁ PUBLICADO O RESULTADO FINAL DA SELEÇÃO? (p. 49)",
+          "texto": "O Resultado Final da Seleção será publicado no Portal do IFPE (portal.ifpe.edu.br) e no site da organizadora do processo seletivo.  Os candidatos e as candidatas devem acompanhar as publicações oficiais.\nATENÇÃO: O candidato ou a candidata ou seu ou sua responsável legal são responsáveis por acompanhar e informar-se sobre os resultados e a relação de candidatos aprovados.\nO Resultado Final é composto por dois documentos:\nLista de Classificação - mostra a posição dos candidatos e das candidatas em todos os tipos de vaga em que poderão ser selecionados ou selecionadas. Essa lista leva em conta as informações indicadas no ato da inscrição e confirmadas, quando for o caso.\nPor exemplo: uma mesma pessoa pode ser classificada nas listas de PcD, PPI e ampla concorrência.\nRelação de Aprovados - mostra as pessoas que foram aprovadas no Processo de Ingresso, dentro das vagas disponíveis. As pessoas listadas nesse documento estão automaticamente convocadas para a matrícula.\nA Lista de Classificação usará os seguintes termos para identificar a situação dos candidatos e das candidatas:\nTermo utilizado\nO que significa\nAprovado\nO candidato ou a candidata está dentro das vagas\nEm espera\nO candidato ou a candidata não está dentro das vagas, mas poderá ser aprovado ou aprovada nas reclassificações\nAprovado na [tipo de vaga] após remanejamento\nO candidato ou a candidata está dentro das vagas de determinado tipo de cota"
+        },
+        {
+          "id": "tabela-B-p61-179",
+          "rotulo": "Anexo B - Calendário - cursos com Análise de Desempenho (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Análise de Desempenho): etapa Resultado Final, atividade: Divulgação da Relação de Aprovados. Data: 29/12/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "tabela-B-p61-178",
+          "rotulo": "Anexo B - Calendário - cursos com Análise de Desempenho (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Análise de Desempenho): etapa Resultado Final, atividade: Divulgação da lista de classificação. Data: 29/12/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "item-12.3",
+          "rotulo": "12 COMO FUNCIONA A AVALIAÇÃO ESPECÍFICA EM MÚSICA (AEM)? > 12.3 COMO CONSULTAR O RESULTADO DA AEM E PEDIR REVISÃO? (p. 35)",
+          "texto": "A Lista Preliminar da AEM, com a pontuação obtida por cada candidato ou candidata, será divulgada na data indicada no ANEXO B (Datas Importantes). A lista poderá ser consultada por meio do Portal IFPE (portal.ifpe.\nedu.br).\nO candidato ou a candidata que discordar do resultado preliminar poderá enviar pedido de revisão, pela Área da Pessoa Candidata, dentro do prazo indicado no ANEXO B.\nOs pedidos de revisão serão analisados, e o resultado dessa análise será divulgado junto com a Lista Final da\nAEM na data indicada no ANEXO B."
+        }
+      ],
       "tempos": {
-        "busca": 4.9,
-        "llm": 17.9
+        "busca": 3.5,
+        "llm": 18.6
       }
     },
     {
@@ -77,9 +158,36 @@
       "encontrou": false,
       "resposta": "Não encontrei essa informação no edital.",
       "fontes": [],
+      "recuperados": [
+        {
+          "id": "item-3",
+          "rotulo": "3 QUEM PODE SE INSCREVER? (p. 13)",
+          "texto": "Candidatos e candidatas aos cursos técnicos e de graduação precisam atender aos critérios da modalidade escolhida.\nConfira os tipos de curso, para quem eles são voltados e quem pode se inscrever:\nTipo de curso\nPara quem é o curso\nQuem pode se inscrever\nTécnico integrado ao ensino médio\nPara quem terminou o ensino fundamental e quer cursar o ensino médio e uma formação técnica ao mesmo tempo.\nQuem terminou o ensino fundamental\n(9º ano) e tem menos de 18 anos até a data da matrícula15.\nTécnico subsequente\nPara quem terminou o ensino médio e quer uma formação técnica.\nQuem terminou o ensino médio até a data da matrícula. Não tem limite de idade.\nGraduação\nPara quem terminou o ensino médio e quer uma formação superior.\nQuem terminou o ensino médio até a data da matrícula. Não tem limite de idade.\nÉ importante lembrar que a inscrição na seleção não significa aprovação. Para ser aprovada, a pessoa inscrita precisa passar por todas as etapas do Processo de Ingresso e atender aos critérios descritos neste edital.\n5 A matrícula das pessoas aprovadas para as vagas desta seleção será realizada a partir de janeiro de 2027. As orientações para a matrícula estarão em outro edital, chamado Edital de Matrícula, que será publicado no Portal do\nIFPE (portal.ifpe.edu.br) até a divulgação da lista de pessoas convocadas para matrícula."
+        },
+        {
+          "id": "item-15.2",
+          "rotulo": "15 COMO SERÁ O REGISTRO DAS NOTAS NO SISTEMA > 15.2 PARA CURSOS TÉCNICOS SUBSEQUENTES (pp. 41-42)",
+          "texto": "a) Histórico escolar do ensino médio regular (3 anos): será calculada a média das notas de Língua Portuguesa e de Matemática dos 1º e 2º anos;\nb) Certificado do ensino médio pelo Encceja ou pelo Enem: será usada a nota de Linguagens, Códigos e suas\nTecnologias e de Matemática e suas Tecnologias;\nc) Boletim do Enem (2017 a 2025): será calculada uma média da pontuação de Linguagens, Códigos e suas tecnologias e de Matemática de uma dessas edições;\nd) Histórico do ensino médio com duração diferente de 3 (três) anos (ex.: normal médio):\nAnual: somam-se as notas de cada ano e divide-se o resultado pelo total de anos, sem considerar o último;\nSemestral: somam-se as notas de cada semestre e divide-se o resultado pelo total de semestres, sem considerar o último.\ne) Certificado do ensino médio em modelo não seriado (ex.: supletivo): será calculada uma média única de\nLíngua Portuguesa e Matemática;\nf) Histórico escolar EJA (Educação de Jovens e Adultos) Médio ou histórico misto (parte EJA e parte ensino médio regular): será usada a média de Língua Portuguesa e de Matemática correspondente aos seguintes anos/séries/módulos/eixos;\nCaso tenha cursado em\nConsiderar para o cálculo da média\nAno\n1º, 2º e 3º\nSérie\n1ª, 2ª e 3ª\nMódulo (EJA)\nI, II e III\nMódulo (PROEJA)\nI, II, III e IV\nEixo (Anos Finais)\nI, II, III e IV"
+        },
+        {
+          "id": "item-14.3-1",
+          "rotulo": "14 COMO SERÁ A SELEÇÃO POR ANÁLISE DO HISTÓRICO ESCOLAR? > 14.3 DOCUMENTAÇÃO NECESSÁRIA PARA PARTICIPAR DA SELEÇÃO (p. 39)",
+          "texto": "No mesmo período da inscrição, após acessar a Área da Pessoa Candidata, o candidato ou a candidata deverá enviar um dos documentos listados, de acordo com o curso escolhido.\nCURSOS\nTIPO DE DOCUMENTO (anexar apenas um)\nTécnicos integrados ao ensino médio\n●\t Histórico escolar do ensino fundamental ou documento equivalente; ou\n●\t Certificado de conclusão do ensino fundamental obtido por meio do Exame Nacional para\nCertificação de Competência de Jovens e Adultos (Encceja);\nTécnicos subsequentes\n●\t Histórico escolar do ensino médio ou documento equivalente; ou\n●\t Certificado de conclusão do ensino médio obtido por meio do Exame Nacional para Certificação de Competência de Jovens e Adultos (Encceja), ou por meio do Enem; ou\n●\t Resultado/Boletim Individual do Enem de uma das edições no período de 2017 a 2025.\nSobre o uso dos resultados obtidos no Enem, o candidato ou a candidata deve observar que:\nse participou de mais de uma edição do Enem, deverá escolher apenas uma edição para utilizar nesta seleção;\nse utilizar o certificado de conclusão do ensino médio obtido por meio do Enem, poderá apresentar certificado de qualquer edição do exame. Nesse caso, não é necessário que a edição utilizada seja do período de 2017 a 2025.\nConfira as características obrigatórias de cada um dos documentos que poderão ser enviados.\nTIPO DE DOCUMENTO\nCARACTERÍSTICAS OBRIGATÓRIAS DO DOCUMENTO\nHistórico escolar ou documento equivalente a) ser apresentado em frente e verso (quando houver);\nb) ter o nome completo da pessoa inscrita;\nc) ter as notas ou médias obtidas;\nd) ter a identificação da escola;\ne) ter a assinatura física ou eletrônica da pessoa responsável pela emissão do documento\n(da escola/instituição de ensino) ou chave de verificação de autenticidade10."
+        },
+        {
+          "id": "item-14.3-2",
+          "rotulo": "14 COMO SERÁ A SELEÇÃO POR ANÁLISE DO HISTÓRICO ESCOLAR? > 14.3 DOCUMENTAÇÃO NECESSÁRIA PARA PARTICIPAR DA SELEÇÃO (pp. 39-40)",
+          "texto": "10 Em caso de assinatura física o documento deve apresentar carimbo ou identificação de quem assinou (nome completo, matrícula ou CPF e cargo/função que desempenha na instituição); em caso de assinatura eletrônica, o documento deve apresentar conjuntamente a identificação de quem assinou (nome completo, matrícula ou CPF e cargo/função que desempenha na instituição), não necessitando de carimbo nem de assinatura física; e em caso de chave de verificação de autenticidade do documento, a chave deverá ser identificável/válida, não necessitando de carimbo nem de assinatura física ou eletrônica.\nCertificado de conclusão do ensino fundamental ou médio obtido através do Encceja ou do Enem a) ter o nome completo do candidato ou da candidata;\nb) ter as edições do Encceja ou do Enem;\nc) ter o CPF do candidato ou da candidata;\nd) ter as pontuações obtidas no exame;\ne) apresentar a identificação da instituição certificadora;\nf) apresentar a assinatura da autoridade certificadora.\nResultado do Enem\n(boletim individual)\na) ter o nome completo do candidato ou da candidata;\nb) ter a edição do Enem (2017 a 2025);\nc) ter o CPF do candidato ou da candidata;\nd) ter o número de inscrição;\ne) ter as pontuações obtidas no exame.\nOs candidatos e as candidatas que não tiverem o histórico escolar ou o certificado de conclusão poderão enviar uma declaração escolar (disponível para baixar no ANEXO L e no ANEXO M).\nOs documentos enviados devem estar legíveis, completos, sem rasuras e com até 10 MB de tamanho cada um. Os arquivos com os documentos devem ser enviados no formato PDF.\nATENÇÃO: Todos os documentos devem ser enviados pela Área da Pessoa Candidata.\nDocumentos enviados por outro meio, como e-mail ou canal de dúvidas serão desconsiderados."
+        },
+        {
+          "id": "intro-p3",
+          "rotulo": "Introdução do edital (página 3) (p. 3)",
+          "texto": "ENTENDA COMO ESTE EDITAL ESTÁ ESTRUTURADO\nO Processo de Ingresso 2027.1 será feito de duas formas: por prova ou por análise do histórico escolar, a depender do curso. Cada forma de seleção possui informações específicas. Por isso, este edital está organizado em quatro partes, identificadas por títulos e recursos visuais próprios, sem que a cor seja o único elemento de identificação:\nInformações gerais para os dois tipos de seleção\n­Capítulos 1 a 6\nPáginas na cor branca\nInformações específicas para seleção por prova\nCapítulos 7 a 13\nPáginas na cor amarela\nInformações específicas para seleção por análise do histórico escolar\nCapítulos 14 a 17\nPáginas na cor rosa\nInformações gerais sobre resultados, classificação e matrícula\nCapítulos 18 a 21\nPáginas na cor verde\nQUEM FARÁ SELEÇÃO POR PROVA?\nQuem se inscrever em um dos cursos de graduação oferecidos, em qualquer campus do IFPE;\nQuem se inscrever nos cursos técnicos integrados ao ensino médio dos seguintes campi:\nAfogados da Ingazeira   |   Abreu e Lima   |   Cabo de Santo Agostinho   |   Caruaru    |  Garanhuns\nIgarassu  |  Ipojuca   |  Jaboatão dos Guararapes   |  Olinda   |  Palmares   |  Paulista   |  Pesqueira   |  Recife\nQUEM FARÁ SELEÇÃO POR HISTÓRICO\nESCOLAR?\nQuem se inscrever em um dos cursos técnicos subsequentes oferecidos, em qualquer campus do IFPE e na Educação a\nDistância (EaD);\nQuem se inscrever nos cursos técnicos integrados ao ensino médio dos seguintes campi:\n- Barreiros\n- Belo Jardim\n- Vitória de Santo Antão"
+        }
+      ],
       "tempos": {
-        "busca": 4.4,
-        "llm": 27.4
+        "busca": 3.5,
+        "llm": 28.2
       }
     },
     {
@@ -94,9 +202,36 @@
       "encontrou": false,
       "resposta": "Não encontrei essa informação no edital.",
       "fontes": [],
+      "recuperados": [
+        {
+          "id": "item-4.3",
+          "rotulo": "4 COMO FAZER A INSCRIÇÃO? > 4.3 QUANTO CUSTA A INSCRIÇÃO? (p. 15)",
+          "texto": "O valor da taxa de inscrição depende da modalidade escolhida:\nR$ 10 (técnico subsequente e técnico integrado com análise de histórico escolar)\nR$ 30 (técnico integrado com prova)\nR$ 55 (cursos de graduação)\nO período para pagamento da taxa de inscrição é de 14/10 a 13/11/2026. O pagamento pode ser feito via PIX ou cartão de crédito, apenas a partir da Área da Pessoa Candidata.\nATENÇÃO COM O PAGAMENTO\n● O candidato ou a candidata deve acessar a Área da Pessoa Candidata, em até 3 dias úteis, após o pagamento, para verificar se a inscrição foi confirmada;\n●  A inscrição só é válida após confirmação do pagamento ou quando o pedido de isenção da taxa for confirmado;\n● As pessoas que não pagarem a taxa dentro do prazo terão a inscrição invalidada."
+        },
+        {
+          "id": "item-1.1",
+          "rotulo": "1 QUAIS SÃO OS CURSOS OFERECIDOS? > 1.1 QUANTAS VAGAS SERÃO OFERECIDAS? (p. 6)",
+          "texto": "2314 vagas em cursos técnicos integrados ao ensino médio;\n1331 vagas em cursos técnicos subsequentes; e\n940 vagas em cursos de graduação."
+        },
+        {
+          "id": "item-1",
+          "rotulo": "1 QUAIS SÃO OS CURSOS OFERECIDOS? (p. 6)",
+          "texto": "Nesta seleção, o IFPE oferece cursos técnicos integrados ao ensino médio, cursos técnicos subsequentes e cursos de graduação, com início no primeiro semestre letivo do ano de 2027."
+        },
+        {
+          "id": "item-1.3",
+          "rotulo": "1 QUAIS SÃO OS CURSOS OFERECIDOS? > 1.3 ONDE POSSO VER A LISTA COMPLETA DOS CURSOS? (p. 6)",
+          "texto": "Todos os cursos oferecidos nesta seleção estão listados no ANEXO A.\nPara conferir todos os cursos oferecidos pelo IFPE, clique aqui\nInformações gerais para os dois tipos de seleção"
+        },
+        {
+          "id": "item-17.3",
+          "rotulo": "17 COMO SERÁ CALCULADA A NOTA? > 17.3 COMO SERÁ A CLASSIFICAÇÃO PARA OS CURSOS DE MÚSICA? (p. 47)",
+          "texto": "A média final das pessoas inscritas para concorrer ao curso Técnico Subsequente em Instrumento Musical levará em conta as notas da análise de histórico escolar e da Avaliação Específica em Música (AEM).\nA Média Final para o curso Técnico Subsequente em Instrumento Musical do Campus Barreiros será calculada por meio de uma média ponderada. A média irá considerar a pontuação da Análise do histórico escolar e a pontuação da (AEM), cada uma tendo peso 5 (cinco).\nOs candidatos ao curso Técnico Subsequente em Instrumento Musical do Campus Barreiros serão classificados considerando, ainda, o instrumento musical escolhido."
+        }
+      ],
       "tempos": {
-        "busca": 5.4,
-        "llm": 16.3
+        "busca": 3.5,
+        "llm": 16.9
       }
     },
     {
@@ -111,9 +246,36 @@
       "encontrou": false,
       "resposta": "Não encontrei essa informação no edital.",
       "fontes": [],
+      "recuperados": [
+        {
+          "id": "item-2",
+          "rotulo": "2 COMO FUNCIONA A DISTRIBUIÇÃO DAS VAGAS? (p. 7)",
+          "texto": "Uma parte do total de vagas oferecidas pelo IFPE é reservada a alguns grupos sociais para garantir mais diversidade, justiça e inclusão. Essas vagas reservadas são chamadas de cotas.\nATENÇÃO: Este edital usará o termo cotas para falar de reserva de vagas1.\nA seguir descreveremos como essas cotas são distribuídas e quais pessoas são atendidas."
+        },
+        {
+          "id": "item-2.5-4",
+          "rotulo": "2 COMO FUNCIONA A DISTRIBUIÇÃO DAS VAGAS? > 2.5 QUE CONDIÇÕES É PRECISO COMPROVAR? (p. 12)",
+          "texto": "ATENÇÃO: A comprovação da escolaridade, da renda, da condição de pessoa com deficiência e da condição de pessoa vinda do campo será feita de acordo com as regras do Edital de Matrícula.\nEssa etapa será de responsabilidade do IFPE.\nA comprovação da condição de pessoa com deficiência para concorrer às vagas reservadas é diferente da solicitação de atendimento especializado para realizar a prova.\nVeja, a seguir, um exemplo visual da distribuição para um curso com 40 vagas.\nAmpla Concorrência\nCotas\nAC_PCD\nAA\nLB_PPI\nLB_PCD\nLB_EP\nLI_PPI\nLI_Q\nLI_EP\nLI_PCD\n15\n1\n0\n8\n1\n2\n1\n8\n1\n1\n2"
+        },
+        {
+          "id": "item-2.3.1",
+          "rotulo": "2 COMO FUNCIONA A DISTRIBUIÇÃO DAS VAGAS? > 2.3 E AS VAGAS QUE NÃO FAZEM PARTE DAS COTAS? > 2.3.1 AÇÕES AFIRMATIVAS (pp. 8-9)",
+          "texto": "O IFPE adota ações afirmativas próprias, que são iniciativas para promover a inclusão de grupos sociais específicos. Essas iniciativas atendem pessoas com deficiência e pessoas vindas do campo.\nPara pessoas com deficiência (grupo de vagas identificado como AC_PcD)\n5% das vagas destinadas à ampla concorrência são para pessoas com deficiência.\nPessoas que estudaram o ensino fundamental ou médio em instituições públicas ou privadas podem concorrer a essas vagas.\nPara pessoas vindas do campo4 (grupo de vagas identificado como AA)\n25% das vagas destinadas à ampla concorrência são para pessoas que estudaram em escola pública, que vieram do campo e se inscreverem nos cursos de vocação agrícola.\nEsses cursos são oferecidos nos campi Afogados da Ingazeira, Barreiros, Belo Jardim e\nVitória de Santo Antão.\nOs cursos de vocação agrícola oferecidos nesta seleção são:\nCAMPUS\nCURSO\nAfogados da Ingazeira\nTécnico Subsequente em Agroindústria\nBarreiros\nTécnico Integrado em Agropecuária\nTecnologia em Agroecologia\nBacharelado em Agronomia\nBelo Jardim\nTécnico Integrado em Agropecuária\nTécnico Integrado em Agroindústria\nTécnico Subsequente em Agropecuária\nTécnico Subsequente em Agroindústria\nVitória de Santo Antão\nTécnico Integrado em Agropecuária\nTécnico Integrado em Agroindústria\nTécnico Subsequente em Agricultura\nTécnico Subsequente em Agroindústria\nTécnico Subsequente em Zootecnia\nBacharelado em Agronomia"
+        },
+        {
+          "id": "item-2.4-3",
+          "rotulo": "2 COMO FUNCIONA A DISTRIBUIÇÃO DAS VAGAS? > 2.4 ENTENDA OS CÓDIGOS QUE IDENTIFICAM OS GRUPOS DE VAGA (p. 10)",
+          "texto": "candidatos autodeclarados quilombolas, independentemente da renda, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLI_PCD candidatos com deficiência, independentemente da renda, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLI_EP candidatos que, independentemente da renda, tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nVeja a quantidade de vagas de cada código no ANEXO A."
+        },
+        {
+          "id": "item-2.1",
+          "rotulo": "2 COMO FUNCIONA A DISTRIBUIÇÃO DAS VAGAS? > 2.1 PARA QUEM SÃO AS COTAS? (p. 7)",
+          "texto": "O IFPE reserva, no mínimo, 60% das vagas para cotas em todos os cursos e turnos. Essas vagas são reservadas para as pessoas que estudaram em escolas públicas2 ou em escolas comunitárias que atuam na educação do campo conveniadas com o poder público3 durante todo o ensino fundamental ou ensino médio, de acordo com os critérios abaixo:\nPessoas que querem fazer um curso técnico integrado ao ensino médio: precisam ter feito todo o ensino fundamental em escolas públicas ou em escolas comunitárias que atuam na educação do campo conveniadas com o poder público;\nPessoas que querem fazer um curso técnico subsequente ou um curso de graduação: precisam ter feito todo o ensino médio em escolas públicas ou em escolas comunitárias que atuam na educação do campo conveniadas com o poder público.\nATENÇÃO: Candidatos e candidatas que em algum momento estudaram em escolas particulares, mesmo como bolsistas, ou em outras escolas não públicas não poderão concorrer às cotas. Essa regra se aplica ao ensino fundamental, para cursos técnicos integrados, ou ao ensino médio, para cursos técnicos subsequentes ou de graduação."
+        }
+      ],
       "tempos": {
-        "busca": 5.5,
-        "llm": 22.1
+        "busca": 3.5,
+        "llm": 22.6
       }
     },
     {
@@ -133,9 +295,36 @@
           "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-4.3",
+          "rotulo": "4 COMO FAZER A INSCRIÇÃO? > 4.3 QUANTO CUSTA A INSCRIÇÃO? (p. 15)",
+          "texto": "O valor da taxa de inscrição depende da modalidade escolhida:\nR$ 10 (técnico subsequente e técnico integrado com análise de histórico escolar)\nR$ 30 (técnico integrado com prova)\nR$ 55 (cursos de graduação)\nO período para pagamento da taxa de inscrição é de 14/10 a 13/11/2026. O pagamento pode ser feito via PIX ou cartão de crédito, apenas a partir da Área da Pessoa Candidata.\nATENÇÃO COM O PAGAMENTO\n● O candidato ou a candidata deve acessar a Área da Pessoa Candidata, em até 3 dias úteis, após o pagamento, para verificar se a inscrição foi confirmada;\n●  A inscrição só é válida após confirmação do pagamento ou quando o pedido de isenção da taxa for confirmado;\n● As pessoas que não pagarem a taxa dentro do prazo terão a inscrição invalidada."
+        },
+        {
+          "id": "tabela-B-p60-130",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Inscrição, atividade: Pagamento da taxa de inscrição. Data: 14/10 a 13/11/2026 (horário bancário). Local: Rede bancária."
+        },
+        {
+          "id": "tabela-B-p61-160",
+          "rotulo": "Anexo B - Calendário - cursos com Análise de Desempenho (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Análise de Desempenho): etapa Inscrição, atividade: Pagamento da taxa de inscrição. Data: 14/10 a 13/11/2026 (horário bancário). Local: Rede bancária."
+        },
+        {
+          "id": "item-5-2",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. (p. 16)",
+          "texto": "ATENÇÃO: pessoas matriculadas no PartiuIF ofertado pelo IFPE que solicitarem isenção não precisarão pagar a  taxa de inscrição."
+        },
+        {
+          "id": "item-5-1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. (p. 16)",
+          "texto": "O QUE DEVO FAZER?\nAquelas pessoas que não podem pagar a taxa de inscrição devem fazer um pedido de dispensa do pagamento da taxa. A dispensa do pagamento se chama isenção.\nA isenção da taxa de inscrição será concedida a quem fizer parte de algum dos grupos listados no quadro a seguir.\nGRUPO\nPÚBLICO\nMEMBROS DE\nFAMÍLIA DE BAIXA\nRENDA INSCRITOS\nNO CADÚNICO\nPessoas que, ao mesmo tempo:\na) comprovem a inscrição no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico);\ne b) sejam membros de família de baixa renda.\nATENÇÃO: O nome completo e o CPF informados na inscrição devem estar iguais aos registrados no\nCadÚnico.\nPARTICIPANTES DO\nPROEJA\nEstudantes participantes do PROEJA (integrado ou concomitante) ofertado pelo IFPE.\nPROIFPE ACESSO\nEstudantes participantes ou que tenham concluído o PROIFPE Acesso.\nPROGRAMA\nMULHERES MIL\nEstudantes participantes ou que tenham participado do Programa Mulheres Mil vinculado ao IFPE e/ ou seus dependentes.\nPOVOS DO CAMPO\nPessoas assentadas da reforma agrária, ocupantes de terras, ribeirinhos e ribeirinhas, agricultores e agricultoras familiares, pescadores e pescadoras, quilombolas, povos originários, posseiros e posseiras, trabalhadores e trabalhadoras rurais, ciganos e ciganas, extrativistas, artesãos e artesãs, marisqueiros e marisqueiras, trabalhadores e trabalhadoras de facção, bordadeiros e bordadeiras de jeans, remanescentes de senzalas, vaqueiros e vaqueiras, além de rendeiras ou seus e suas dependentes, que tenham cursado todo o Ensino Fundamental ou Médio, exclusivamente, em escolas públicas.\nINDÍGENA E\nQUILOMBOLA\nMembros de comunidades indígenas e quilombolas.\n50+\nPessoas a partir de 50 (cinquenta) anos de idade.\nPARTIUIF\nEstudantes participantes do Programa PartiuIF ofertado pelo IFPE."
+        }
+      ],
       "tempos": {
-        "busca": 4.6,
-        "llm": 19.6
+        "busca": 3.5,
+        "llm": 20.1
       }
     },
     {
@@ -155,9 +344,36 @@
           "rotulo": "4 COMO FAZER A INSCRIÇÃO? > 4.3 QUANTO CUSTA A INSCRIÇÃO? (p. 15)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-4.3",
+          "rotulo": "4 COMO FAZER A INSCRIÇÃO? > 4.3 QUANTO CUSTA A INSCRIÇÃO? (p. 15)",
+          "texto": "O valor da taxa de inscrição depende da modalidade escolhida:\nR$ 10 (técnico subsequente e técnico integrado com análise de histórico escolar)\nR$ 30 (técnico integrado com prova)\nR$ 55 (cursos de graduação)\nO período para pagamento da taxa de inscrição é de 14/10 a 13/11/2026. O pagamento pode ser feito via PIX ou cartão de crédito, apenas a partir da Área da Pessoa Candidata.\nATENÇÃO COM O PAGAMENTO\n● O candidato ou a candidata deve acessar a Área da Pessoa Candidata, em até 3 dias úteis, após o pagamento, para verificar se a inscrição foi confirmada;\n●  A inscrição só é válida após confirmação do pagamento ou quando o pedido de isenção da taxa for confirmado;\n● As pessoas que não pagarem a taxa dentro do prazo terão a inscrição invalidada."
+        },
+        {
+          "id": "item-5-2",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. (p. 16)",
+          "texto": "ATENÇÃO: pessoas matriculadas no PartiuIF ofertado pelo IFPE que solicitarem isenção não precisarão pagar a  taxa de inscrição."
+        },
+        {
+          "id": "item-5-1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. (p. 16)",
+          "texto": "O QUE DEVO FAZER?\nAquelas pessoas que não podem pagar a taxa de inscrição devem fazer um pedido de dispensa do pagamento da taxa. A dispensa do pagamento se chama isenção.\nA isenção da taxa de inscrição será concedida a quem fizer parte de algum dos grupos listados no quadro a seguir.\nGRUPO\nPÚBLICO\nMEMBROS DE\nFAMÍLIA DE BAIXA\nRENDA INSCRITOS\nNO CADÚNICO\nPessoas que, ao mesmo tempo:\na) comprovem a inscrição no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico);\ne b) sejam membros de família de baixa renda.\nATENÇÃO: O nome completo e o CPF informados na inscrição devem estar iguais aos registrados no\nCadÚnico.\nPARTICIPANTES DO\nPROEJA\nEstudantes participantes do PROEJA (integrado ou concomitante) ofertado pelo IFPE.\nPROIFPE ACESSO\nEstudantes participantes ou que tenham concluído o PROIFPE Acesso.\nPROGRAMA\nMULHERES MIL\nEstudantes participantes ou que tenham participado do Programa Mulheres Mil vinculado ao IFPE e/ ou seus dependentes.\nPOVOS DO CAMPO\nPessoas assentadas da reforma agrária, ocupantes de terras, ribeirinhos e ribeirinhas, agricultores e agricultoras familiares, pescadores e pescadoras, quilombolas, povos originários, posseiros e posseiras, trabalhadores e trabalhadoras rurais, ciganos e ciganas, extrativistas, artesãos e artesãs, marisqueiros e marisqueiras, trabalhadores e trabalhadoras de facção, bordadeiros e bordadeiras de jeans, remanescentes de senzalas, vaqueiros e vaqueiras, além de rendeiras ou seus e suas dependentes, que tenham cursado todo o Ensino Fundamental ou Médio, exclusivamente, em escolas públicas.\nINDÍGENA E\nQUILOMBOLA\nMembros de comunidades indígenas e quilombolas.\n50+\nPessoas a partir de 50 (cinquenta) anos de idade.\nPARTIUIF\nEstudantes participantes do Programa PartiuIF ofertado pelo IFPE."
+        },
+        {
+          "id": "item-5.1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.1 COMO FAZER O PEDIDO DE ISENÇÃO? (p. 16)",
+          "texto": "O pedido de isenção da taxa de inscrição deverá ser feito na Área da Pessoa Candidatas, acessada por meio do\nPortal IFPE (portal.ifpe.edu.br), dentro do período estabelecido pelo ANEXO B (Datas Importantes).\nDepois de acessar, o candidato ou a candidata preencherá o formulário de isenção no momento da inscrição e apresentará os documentos listados no ANEXO C."
+        },
+        {
+          "id": "tabela-B-p60-130",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Inscrição, atividade: Pagamento da taxa de inscrição. Data: 14/10 a 13/11/2026 (horário bancário). Local: Rede bancária."
+        }
+      ],
       "tempos": {
-        "busca": 5.4,
-        "llm": 19.0
+        "busca": 3.5,
+        "llm": 19.1
       }
     },
     {
@@ -177,9 +393,36 @@
           "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 58)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-1.1",
+          "rotulo": "1 QUAIS SÃO OS CURSOS OFERECIDOS? > 1.1 QUANTAS VAGAS SERÃO OFERECIDAS? (p. 6)",
+          "texto": "2314 vagas em cursos técnicos integrados ao ensino médio;\n1331 vagas em cursos técnicos subsequentes; e\n940 vagas em cursos de graduação."
+        },
+        {
+          "id": "tabela-A-p57-095",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Barreiros, curso Licenciatura em Química, turno noite: 40 vagas no total. Distribuição por grupo de vaga: AC 15; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 2; LI_EP 1."
+        },
+        {
+          "id": "item-21.3",
+          "rotulo": "21 TAMBÉM É IMPORTANTE SABER > 21.3 É POSSÍVEL CURSAR DUAS GRADUAÇÕES EM INSTITUIÇÕES PÚBLICAS AO MESMO TEMPO? (p. 52)",
+          "texto": "Não. Mesmo em instituições públicas diferentes, a ocupação de duas vagas em cursos de graduação é proibida13. Uma pessoa só pode cursar duas graduações ao mesmo tempo se pelo menos uma delas for em uma instituição privada."
+        },
+        {
+          "id": "tabela-A-p57-096",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Barreiros, curso Bacharelado em Agronomia, turno noite: 40 vagas no total. Distribuição por grupo de vaga: AC 11; AC_PCD 1; AA 4; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 2; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p58-117",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 58)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Igarassu, curso Tecnologia em Gestão da Qualidade, turno manhã: 36 vagas no total. Distribuição por grupo de vaga: AC 13; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 1; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 1; LI_EP 1."
+        }
+      ],
       "tempos": {
-        "busca": 5.4,
-        "llm": 15.8
+        "busca": 3.6,
+        "llm": 16.1
       }
     },
     {
@@ -192,16 +435,43 @@
       "tentativas": 1,
       "erro": "",
       "encontrou": true,
-      "resposta": "Sim, para pessoas com deficiência que tiverem a solicitação de atendimento especializado aprovada, haverá tempo adicional de 1 (uma) hora para realizar a prova.",
+      "resposta": "Sim, para pessoas com deficiência que tiverem a solicitação de atendimento especializado aprovada, haverá tempo adicional de 1 hora para realizar a prova.",
       "fontes": [
         {
           "id": "item-8.1",
           "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.1 HAVERÁ TEMPO ADICIONAL PARA QUEM FIZER A PROVA EM CONDIÇÕES ESPECÍFICAS? (pp. 24-25)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-8.1",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.1 HAVERÁ TEMPO ADICIONAL PARA QUEM FIZER A PROVA EM CONDIÇÕES ESPECÍFICAS? (pp. 24-25)",
+          "texto": "Sim, para alguns casos haverá acréscimo de tempo na aplicação da prova.\nCandidatos e candidatas com deficiência que tiverem a solicitação de atendimento especializado aprovada terão até 1 (uma) hora a mais para realizar a prova.\nAs pessoas que tiverem a necessidade poderão amamentar a cada intervalo de 2 (duas) horas, por até 30 (trinta) minutos por filho.  O tempo utilizado para a amamentação será acrescido ao tempo de realização da prova, pelo mesmo período.\n7 Pessoa em situação de classe hospitalar é aquela que realiza sua escolarização dentro de uma instituição hospitalar ou similar, enquanto permanece internada para tratamento de saúde. Não é considerada pessoa em situação de classe hospitalar aquela que estiver internada para realização de partos, cirurgias ou tratamentos esporádicos nas datas de aplicação da prova. Pessoas  que trabalham na área hospitalar também não pertencem a esse grupo.\nOs outros grupos aptos a solicitar prova em condições específicas não terão tempo adicional."
+        },
+        {
+          "id": "item-9.1",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.1 LOCAIS E HORÁRIOS DAS PROVAS (pp. 26-27)",
+          "texto": "Os horários das provas serão:\nPROVAS DE CURSOS\nTÉCNICOS INTEGRADOS\nPROVAS DE CURSOS\nDE GRADUAÇÃO\n7h45\nHorário recomendado para chegada no local de prova\n7h45\nHorário recomendado para chegada no local de prova\n8h\nAbertura dos portões\n8h\nAbertura dos portões\n8h45\nFechamento dos portões\n8h45\nFechamento dos portões\n9h\nInício da prova\n9h\nInício da prova\n10h\nPermissão para sair da sala de aplicação de prova\n10h\nPermissão para sair da sala de aplicação de prova\n12h\nTérmino das  provas\n13h\nTérmino das provas\n13h\nTérmino das provas com tempo adicional\n14h\nTérmino das provas com tempo adicional\nSe o início da prova sofrer atraso por causa de um problema técnico ou fenômeno da natureza, o tempo de prova será mantido. Ou seja, o tempo do atraso será acrescentado ao horário previsto para o término da prova.\nAcompanhantes não poderão entrar no prédio nos dias e horários das provas. Só é permitida a entrada de acompanhantes que cuidarem de crianças de pessoas lactantes que solicitaram o direito de amamentar durante a prova.\nATENÇÃO: Não haverá segunda chamada nem repetição das provas. O candidato ou a candidata que faltar ou chegar ao local de aplicação depois do horário de fechamento dos portões será automaticamente desclassificado ou desclassificada do Processo de Ingresso."
+        },
+        {
+          "id": "item-9.5",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.5 E QUEM USA APARELHO DE SURDEZ? (p. 28)",
+          "texto": "Pessoas com deficiência auditiva poderão usar aparelho de surdez durante a realização das provas, desde que seja informado no ato da inscrição. O candidato ou candidata deve informar que precisa usar o aparelho por meio da solicitação de atendimento em condições específicas. Também é preciso comprovar a necessidade por laudo médico.\nO aparelho poderá ser inspecionado pelos fiscais, exclusivamente para verificação de segurança."
+        },
+        {
+          "id": "item-2.5-4",
+          "rotulo": "2 COMO FUNCIONA A DISTRIBUIÇÃO DAS VAGAS? > 2.5 QUE CONDIÇÕES É PRECISO COMPROVAR? (p. 12)",
+          "texto": "ATENÇÃO: A comprovação da escolaridade, da renda, da condição de pessoa com deficiência e da condição de pessoa vinda do campo será feita de acordo com as regras do Edital de Matrícula.\nEssa etapa será de responsabilidade do IFPE.\nA comprovação da condição de pessoa com deficiência para concorrer às vagas reservadas é diferente da solicitação de atendimento especializado para realizar a prova.\nVeja, a seguir, um exemplo visual da distribuição para um curso com 40 vagas.\nAmpla Concorrência\nCotas\nAC_PCD\nAA\nLB_PPI\nLB_PCD\nLB_EP\nLI_PPI\nLI_Q\nLI_EP\nLI_PCD\n15\n1\n0\n8\n1\n2\n1\n8\n1\n1\n2"
+        },
+        {
+          "id": "item-8-1",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? (p. 24)",
+          "texto": "O candidato ou a candidata que precisar de condições específicas para realizar a prova poderá solicitar o atendimento adequado no momento da inscrição, conforme as regras e os prazos deste Edital.\nO quadro a seguir descreve quem pode fazer a solicitação e os documentos que precisará enviar:\nCONDIÇÕES\nDESCRIÇÃO\nDOCUMENTAÇÃO\nAtendimento especializado\nPara pessoa com incapacidade temporária ou deficiência física, intelectual ou sensorial que precise de recursos de acessibilidade.\n1 Laudo médico que ateste a espécie e o grau ou nível de sua deficiência, doença ou limitação física. O laudo deve ter a Classificação Internacional de\nDoenças (CID), a assinatura e o carimbo do médico ou da médica e o número de sua inscrição no Conselho Regional de Medicina (CRM); e\n2 Documento de identificação (frente e verso).\nAtendimento à lactante\n1 Certidão de nascimento da criança com idade inferior ou igual a 1 (um) ano na data de aplicação da prova ou documento que ateste a gestação (documento emitido pelo médico ou pela médica,  com o respectivo número de registro no\nConselho Regional de Medicina); e\n2 Documento de identificação (frente e verso).\nAtendimento em classe hospitalar71\n2 Documento de identificação (frente e verso).\n1 Declaração do hospital em que a pessoa estiver internada para tratamento de saúde, informando a disponibilidade de instalações adequadas para a aplicação da prova. A declaração deve conter: o nome completo e o CPF da pessoa candidata, o diagnóstico com a descrição da condição que justifica a solicitação, o nome e o endereço completo do hospital (incluindo o CEP), além da assinatura e da identificação do ou da profissional responsável; e\n2 Documento de identificação (frente e verso).\nTratamento por nome social\nPara pessoa cuja identificação civil não"
+        }
+      ],
       "tempos": {
-        "busca": 5.0,
-        "llm": 25.0
+        "busca": 3.6,
+        "llm": 25.3
       }
     },
     {
@@ -221,9 +491,36 @@
           "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "tabela-B-p60-155",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Prova, atividade: Divulgação do resultado final das provas objetivas e discursivas. Data: 21/12/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "item-11.2",
+          "rotulo": "11 COMO PEDIR A REVISÃO DAS QUESTÕES DA PROVA OBJETIVA? > 11.2 COMO FAZER PARA PEDIR REVISÃO DO RESULTADO PRELIMINAR DAS PROVAS? (p. 31)",
+          "texto": "O resultado preliminar das provas objetiva e dissertativa, com a pontuação obtida por cada candidato ou candidata, será divulgado na data indicada no ANEXO B (Datas Importantes). O resultado estará disponível no site Portal IFPE (portal.ifpe.edu.br).\nO candidato ou a candidata que discordar do resultado preliminar da prova objetiva ou da prova discursiva poderá enviar pedido de revisão pela Área da Pessoa Candidata, dentro do prazo indicado no ANEXO B.\nOs pedidos de revisão serão analisados e o resultado dessa análise será publicado junto com o resultado final das provas objetivas e da redação."
+        },
+        {
+          "id": "tabela-B-p61-157",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Resultado Final da Seleção, atividade: Divulgação da Relação de Aprovados. Data: 29/12/2026. Local: https://portal.ifpe.edu.br/ e site da Funcern."
+        },
+        {
+          "id": "tabela-B-p60-153",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Prova, atividade: Divulgação do resultado preliminar das provas objetivas e discursiva. Data: 16/12/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "tabela-B-p61-156",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Resultado Final da Seleção, atividade: Divulgação da lista de classificação. Data: 29/12/2026. Local: https://portal.ifpe.edu.br/ e site da Funcern."
+        }
+      ],
       "tempos": {
-        "busca": 4.4,
-        "llm": 16.5
+        "busca": 3.6,
+        "llm": 16.7
       }
     },
     {
@@ -243,9 +540,36 @@
           "rotulo": "Anexo B - Previsão de início das aulas (p. 62)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "tabela-B-p62-196",
+          "rotulo": "Anexo B - Previsão de início das aulas (p. 62)",
+          "texto": "Anexo B, previsão de início das aulas: campus Ipojuca: 27/1/2027."
+        },
+        {
+          "id": "tabela-A-p58-119",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 58)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Ipojuca, curso Licenciatura em Química, turno noite: 36 vagas no total. Distribuição por grupo de vaga: AC 13; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 1; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 1; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p56-070",
+          "rotulo": "Anexo A - Cursos Técnicos Subsequentes (presenciais) (p. 56)",
+          "texto": "Anexo A (Cursos Técnicos Subsequentes (presenciais)): campus Ipojuca, curso Técnico em Mecânica, turno noite: 36 vagas no total. Distribuição por grupo de vaga: AC 13; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 1; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 1; LI_EP 1."
+        },
+        {
+          "id": "tabela-B-p61-183",
+          "rotulo": "Anexo B - Previsão de início das aulas (p. 61)",
+          "texto": "Anexo B, previsão de início das aulas: campus Olinda: 26/1/2027."
+        },
+        {
+          "id": "tabela-B-p62-187",
+          "rotulo": "Anexo B - Previsão de início das aulas (p. 62)",
+          "texto": "Anexo B, previsão de início das aulas: campus Paulista: 15/2/2027."
+        }
+      ],
       "tempos": {
-        "busca": 4.5,
-        "llm": 14.9
+        "busca": 3.5,
+        "llm": 15.9
       }
     },
     {
@@ -258,16 +582,43 @@
       "tentativas": 1,
       "erro": "",
       "encontrou": true,
-      "resposta": "A autodeclaração de pessoas pretas e pardas será verificada com base em suas características físicas (fenótipo), como cor da pele, cabelo e traços do rosto. Uma banca será responsável por verificar e analisar o vídeo enviado pela candidata ou pelo candidato, que precisa mostrar a pessoa de frente para a câmera por 3 segundos e dizer com clareza: “Eu, (seu nome completo), CPF (número do CPF), candidato ou candidata do Processo de Ingresso - Entrada 2027.1 do IFPE, me autodeclaro como pessoa preta ou parda.”",
+      "resposta": "A autodeclaração de pessoas pretas e pardas (códigos LB_PPI e LI_PPI) será verificada com base em suas características físicas (fenótipo), como cor da pele, cabelo e traços do rosto. Uma banca será responsável por verificar e analisar o vídeo enviado pela candidata ou pelo candidato, que precisa mostrar a pessoa de frente para a câmera por 3 segundos e dizer com clareza: “Eu, (seu nome completo), CPF (número do CPF), candidato ou candidata do Processo de Ingresso - Entrada 2027.1 do IFPE, me autodeclaro como pessoa preta ou parda.”",
       "fontes": [
         {
           "id": "item-6.1",
           "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) > 6.1 VERIFICAÇÃO DA AUTODECLARAÇÃO PARA PESSOAS PRETAS OU PARDAS (p. 18)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-6.1",
+          "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) > 6.1 VERIFICAÇÃO DA AUTODECLARAÇÃO PARA PESSOAS PRETAS OU PARDAS (p. 18)",
+          "texto": "A autodeclaração de pessoas pretas e pardas (códigos LB_PPI e LI_PPI) será verificada com base em suas características físicas (fenótipo), como cor da pele, cabelo e traços do rosto. Uma banca será responsável por verificar e analisar o vídeo enviado pela candidata ou pelo candidato.\nO vídeo precisa mostrar:\n1. A pessoa de frente para a câmera por 3 segundos;\n2. Depois, a pessoa dizendo com clareza (alto e pausadamente):\n“Eu, (seu nome completo), CPF (número do CPF), candidato ou candidata do Processo de Ingresso - Entrada\n2027.1 do IFPE, me autodeclaro como pessoa preta ou parda.”\nA gravação do vídeo também deve seguir algumas regras, com o objetivo de garantir as condições adequadas para análise por parte da banca."
+        },
+        {
+          "id": "item-6",
+          "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) (p. 18)",
+          "texto": "Essa é uma etapa destinada a pessoas autodeclaradas pretas, pardas, indígenas ou quilombolas que concorrerem às vagas dos códigos LB_PPI, LI_PPI, LB_Q e LI_Q.\nSerão realizados três tipos de verificação:\numa para pessoas pretas e pardas;\numa para pessoas indígenas; e uma para pessoas quilombolas.\nA seguir cada tipo será explicado."
+        },
+        {
+          "id": "item-6.5",
+          "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) > 6.5 COMO SERÁ FEITA A VERIFICAÇÃO ÉTNICO-RACIAL (p. 20)",
+          "texto": "Uma comissão formada por três pessoas fará a verificação. Elas avaliarão os seguintes critérios:\n• Para pessoas pretas e pardas, será usado apenas o critério fenotípico com base no vídeo enviado;\n• Para pessoas indígenas e quilombolas, a comissão vai analisar os documentos exigidos nos subitens\n6.2 e 6.3.\nAs decisões da comissão serão tomadas por maioria e terão parecer sigiloso, conforme as leis de proteção de dados.\nRegistros ou resultados de outras seleções ou Processos de Ingresso não serão aceitos na etapa de verificação étnico-racial. Da mesma forma, somente serão aceitos documentos solicitados neste edital.\nNa verificação de pessoas pretas e pardas, as características fenotípicas serão consideradas a partir dos arquivos listados nos subitens 6.1 e 6.1.1.\nJá na verificação de pessoas indígenas ou quilombolas, serão avaliados apenas os documentos listados nos subitens 6.2 e 6.3."
+        },
+        {
+          "id": "item-6.6.3",
+          "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) > 6.6 RESULTADOS E PEDIDOS DE REVISÃO DA VERIFICAÇÃO ÉTNICO-RACIAL > 6.6.3 LISTA FINAL DA VERIFICAÇÃO ÉTNICO-RACIAL (p. 21)",
+          "texto": "A Lista final será publicada no Portal do IFPE (portal.ifpe.edu.br), conforme o ANEXO B. Essa lista será definitiva e não poderá ser contestada.\nQuem não tiver a autodeclaração confirmada na etapa de verificação étnico-racial deixará de concorrer às vagas reservadas a pessoas pretas, pardas, indígenas e quilombolas, mas continuará concorrendo às outras vagas a que tiver direito."
+        },
+        {
+          "id": "item-6.2",
+          "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) > 6.2 VERIFICAÇÃO DA AUTODECLARAÇÃO PARA PESSOAS INDÍGENAS (p. 19)",
+          "texto": "Uma banca será responsável por analisar os documentos de autodeclaração de pessoa indígena (códigos\nLB_PPI e LI_PPI).\nA análise irá considerar:\no Registro Administrativo de Nascimento de Indígena - RANI, emitido pela Fundação Nacional dos\nPovos Indígenas - Funai; OU o ANEXO D, que corresponde ao Reconhecimento de Identidade Indígena."
+        }
+      ],
       "tempos": {
-        "busca": 5.5,
-        "llm": 28.9
+        "busca": 3.6,
+        "llm": 31.1
       }
     },
     {
@@ -280,20 +631,47 @@
       "tentativas": 1,
       "erro": "",
       "encontrou": true,
-      "resposta": "O pedido de isenção da taxa de inscrição deverá ser feito na Área da Pessoa Candidatas, acessada por meio do Portal IFPE (portal.ifpe.edu.br), dentro do período estabelecido pelo ANEXO B (Datas Importantes). O candidato ou a candidata preencherá o formulário de isenção no momento da inscrição e apresentará os documentos listados no ANEXO C.",
+      "resposta": "O pedido de isenção da taxa de inscrição deverá ser feito na Área da Pessoa Candidatas, acessada por meio do Portal IFPE (portal.ifpe.edu.br), dentro do período estabelecido pelo ANEXO B (Datas Importantes). Após acessar, o candidato ou a candidata preencherá o formulário de isenção no momento da inscrição e apresentará os documentos listados no ANEXO C.",
       "fontes": [
         {
           "id": "item-5.1",
           "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.1 COMO FAZER O PEDIDO DE ISENÇÃO? (p. 16)"
         },
         {
+          "id": "anexo-C-1",
+          "rotulo": "Anexo C - DOCUMENTAÇÃO PARA O PEDIDO DE DISPENSA DE PAGAMENTO DA TAXA DE INSCRIÇÃO (p. 63)"
+        }
+      ],
+      "recuperados": [
+        {
+          "id": "item-5.1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.1 COMO FAZER O PEDIDO DE ISENÇÃO? (p. 16)",
+          "texto": "O pedido de isenção da taxa de inscrição deverá ser feito na Área da Pessoa Candidatas, acessada por meio do\nPortal IFPE (portal.ifpe.edu.br), dentro do período estabelecido pelo ANEXO B (Datas Importantes).\nDepois de acessar, o candidato ou a candidata preencherá o formulário de isenção no momento da inscrição e apresentará os documentos listados no ANEXO C."
+        },
+        {
           "id": "item-5.2",
-          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.2 COMO SABER QUEM TEVE DIREITO À ISENÇÃO DA TAXA DE INSCRIÇÃO? (p. 17)"
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.2 COMO SABER QUEM TEVE DIREITO À ISENÇÃO DA TAXA DE INSCRIÇÃO? (p. 17)",
+          "texto": "A comissão organizadora analisará os documentos enviados no ato da inscrição. Depois da análise, a Lista\nPreliminar de Isentos será divulgada com os nomes das pessoas que tiveram a isenção confirmada e das que tiveram a isenção negada.\nAs pessoas que tiveram a isenção confirmada já estão isentas da taxa e terão automaticamente as inscrições confirmadas no Processo de Ingresso.\nATENÇÃO ÀS INFORMAÇÕES ENVIADAS: Erros como documentação incorreta, arquivos ilegíveis, informações incompletas ou diferentes dos documentos impedirão o candidato ou a candidata de ter direito à isenção da taxa."
+        },
+        {
+          "id": "anexo-C-1",
+          "rotulo": "Anexo C - DOCUMENTAÇÃO PARA O PEDIDO DE DISPENSA DE PAGAMENTO DA TAXA DE INSCRIÇÃO (p. 63)",
+          "texto": "DOCUMENTAÇÃO PARA O PEDIDO DE DISPENSA DE PAGAMENTO DA TAXA DE INSCRIÇÃO\nGRUPO\nPÚBLICO\nDOCUMENTAÇÃO\nMEMBROS DE\nFAMÍLIA DE\nBAIXA RENDA\nINSCRITOS NO\nCADÚNICO\nPessoas amparadas pelo Decreto nº\n11.016, de 29 de março de 2022, que, cumulativamente:\na) comprove inscrição no Cadastro Único para Programas Sociais do Governo\nFederal (CadÚnico), b) sejam membros de família de baixa renda.\nAo acessar a Área da Pessoa Candidata, preencher o formulário de isenção e informar obrigatoriamente o CPF da pessoa candidata, que deverá corresponder ao CPF registrado no\nCadÚnico. O NIS poderá ser solicitado adicionalmente quando necessário ao procedimento de consulta utilizado pela organização.\nPARTICIPANTES\nDO PROEJA\nEstudantes participantes do PROEJA\n(Integrado ou concomitante) ofertado pelo IFPE.\na) Documento oficial de identificação da pessoa candidata com foto; e, b) Declaração de matrícula, vínculo, Atestado de Situação\nAcadêmica ou Histórico Escolar, expedidos pelo IFPE, que comprovem a participação no PROEJA.\nPROIFPE ACESSO\nEstudantes participantes ou egressos do\nPROIFPE Acesso.\na) Documento oficial de identificação da pessoa candidata com foto.\nb) Declaração de vínculo ao PROIFPE Acesso.\nPROGRAMA\nMULHERES MIL\nEstudantes participantes ou que tenham participado do Programa Mulheres Mil vinculado ao IFPE e/ou seus ou suas dependentes.\na) Documento oficial de identificação da pessoa candidata  com foto.\nb) Declaração ou Certificado de participação no programa\nMulheres Mil e quando a isenção for solicitada por dependente, documento que comprove o vínculo de dependência, como certidão de nascimento, termo de guarda, tutela ou documento equivalente.\nPOVOS DO\nCAMPO\nAssentados de reforma agrária, ocupantes de terras, ribeirinhos, agricultores familiares, pescadores,"
+        },
+        {
+          "id": "item-5.3",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.3 O PEDIDO DE ISENÇÃO FOI NEGADO, O QUE FAZER? (p. 17)",
+          "texto": "Somente as pessoas que tiverem a isenção negada poderão apresentar pedido de revisão pela Área da Pessoa\nCandidata, no período estabelecido no ANEXO B. No pedido de revisão, o candidato ou a candidata poderá apresentar novos documentos e deverá informar os motivos do pedido.\nOs pedidos de revisão serão analisados, e a decisão anterior poderá ser mantida ou alterada.\nO resultado da análise dos pedidos de revisão será divulgado na Lista Final de Isentos, conforme as datas do\nANEXO B. A lista será divulgada no Portal do IFPE (portal.ifpe.edu.br).\nATENÇÃO: O candidato ou a candidata que tiver a isenção negada deverá fazer o pagamento da taxa de inscrição no período deste Edital. Essa será a única forma de se inscrever no\nProcesso de Ingresso depois da divulgação da Lista Final de Isentos."
+        },
+        {
+          "id": "item-5-2",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. (p. 16)",
+          "texto": "ATENÇÃO: pessoas matriculadas no PartiuIF ofertado pelo IFPE que solicitarem isenção não precisarão pagar a  taxa de inscrição."
         }
       ],
       "tempos": {
-        "busca": 5.5,
-        "llm": 26.1
+        "busca": 3.7,
+        "llm": 27.6
       }
     },
     {
@@ -313,9 +691,36 @@
           "rotulo": "Anexo O - QUADRO DE REMANEJAMENTO DE VAGAS (LEI Nº 14.723/2023) (p. 79)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "anexo-O-1",
+          "rotulo": "Anexo O - QUADRO DE REMANEJAMENTO DE VAGAS (LEI Nº 14.723/2023) (p. 79)",
+          "texto": "QUADRO DE REMANEJAMENTO DE VAGAS (LEI Nº 14.723/2023)\nRESTAM\nVAGAS\nNA LISTA\nVAGAS MIGRAM NA SEGUINTE ORDEM\n1º\n2º\n3º\n4º\n5º\n6º\n7º\n8º\n9º\n10º\nLB_PPI\nLB_Q\nLB_PCD\nLB_EP\nLI_PPI\nLI_Q\nLI_PCD\nLI_EP\nAC_PCD\nAA\nAC\nLB_Q\nLB_PPI\nLB_PCD\nLB_EP\nLI_PPI\nLI_Q\nLI_PCD\nLI_EP\nAC_PCD\nAA\nAC\nLB_PCD\nLB_PPI\nLB_Q\nLB_EP\nLI_PPI\nLI_Q\nLI_PCD\nLI_EP\nAC_PCD\nAA\nAC\nLB_EP\nLB_PPI\nLB_Q\nLB_PCD\nLI_PPI\nLI_Q\nLI_PCD\nLI_EP\nAC_PCD\nAA\nAC\nLI_PPI\nLB_PPI\nLB_Q\nLB_PCD\nLB_EP\nLI_Q\nLI_PCD\nLI_EP\nAC_PCD\nAA\nAC\nLI_Q\nLB_PPI\nLB_Q\nLB_PCD\nLB_EP\nLI_PPI\nLI_PCD\nLI_EP\nAC_PCD\nAA\nAC\nLI_PCD\nLB_PPI\nLB_Q\nLB_PCD\nLB_EP\nLI_PPI\nLI_Q\nLI_EP\nAC_PCD\nAA\nAC\nLI_EP\nLB_PPI\nLB_Q\nLB_PCD\nLB_EP\nLI_PPI\nLI_Q\nLI_PCD\nAC_PCD\nAA\nAC\nLegenda de grupos de vagas:\nAC: Ampla concorrência.\nAC_PCD: Candidatos com deficiência (ampla concorrência).\nAA: Ação afirmativa de Oriundos do Campo (estudantes de escola pública oriundos do campo que optarem por cursos de vocação agrícola).\nLB_PPI: candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLB_Q: candidatos autodeclarados quilombolas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola"
+        },
+        {
+          "id": "tabela-A-p57-095",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Barreiros, curso Licenciatura em Química, turno noite: 40 vagas no total. Distribuição por grupo de vaga: AC 15; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 2; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p58-119",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 58)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Ipojuca, curso Licenciatura em Química, turno noite: 36 vagas no total. Distribuição por grupo de vaga: AC 13; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 1; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 1; LI_EP 1."
+        },
+        {
+          "id": "anexo-O-2",
+          "rotulo": "Anexo O - QUADRO DE REMANEJAMENTO DE VAGAS (LEI Nº 14.723/2023) (p. 79)",
+          "texto": "comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLB_PCD: candidatos com deficiência, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLB_EP: candidatos com renda familiar bruta per capita igual ou inferior a 1 salário mínimo, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLI_PPI: candidatos autodeclarados pretos, pardos ou indígenas, independentemente da renda, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público. (Lei nº 12.711/2012).\nLI_Q: candidatos autodeclarados quilombolas, independentemente da renda, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo"
+        },
+        {
+          "id": "anexo-G-7",
+          "rotulo": "Anexo G - ASSUNTOS DA PROVA (p. 68)",
+          "texto": "I. LEITURA E INTERPRETAÇÃO DE TEXTOS - Compreensão de textos diversos, levando em conta o contexto de produção, divulgação e circulação; construção de sentidos de acordo com o gênero textual, com a tipologia (argumentação, narração, descrição, explicação e injunção) e com a função comunicativa (literária, científica, jornalística, pessoal, entre outras). Compreensão da intenção comunicativa do texto; reconhecimento dos efeitos produzidos pelas escolhas lexicais, pela seleção e pela organização das informações.\nReconhecimento das informações explícitas e implícitas; identificação de intertextualidades e das conexões entre diferentes textos;\ndiferenciação entre dados factuais e opiniões expressas. Reconhecimento de figuras de linguagem e análise de seus efeitos de sentido. II. COERÊNCIA E COESÃO NA PRODUÇÃO TEXTUAL - Reconhecimento da coerência na construção de sentidos entre as partes do texto, bem como da coesão por meio dos recursos linguísticos utilizados para articular essas partes (como pronomes, artigos, preposições, conjunções, advérbios e numerais), tanto com função de retomada quanto de antecipação (anáfora e catáfora).\nCompreensão das relações entre ideias principais e secundárias, entre causas e consequências, entre semelhanças e contrastes etc.\nIdentificação dos efeitos provocados pelo uso de marcadores temporais e espaciais. Análise das relações de significado entre palavras, frases e parágrafos. Reconhecimento de estratégias que garantem a coerência (como manutenção do tema, conhecimento prévio do leitor e do autor, escolha do vocabulário e grau de formalidade adequado ao gênero). Uso de recursos coesivos como pronomes, sinônimos, hiperônimos, hipônimos, elipses e substituições. Interpretação do significado das palavras de acordo com o contexto,"
+        }
+      ],
       "tempos": {
-        "busca": 4.6,
-        "llm": 33.8
+        "busca": 3.6,
+        "llm": 39.8
       }
     },
     {
@@ -331,13 +736,40 @@
       "resposta": "40 vagas",
       "fontes": [
         {
-          "id": "tabela-A-p57-095",
+          "id": "tabela-A-p57-094",
           "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "tabela-A-p57-095",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Barreiros, curso Licenciatura em Química, turno noite: 40 vagas no total. Distribuição por grupo de vaga: AC 15; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 2; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p59-127",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 59)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Vitória de Santo Antão, curso Licenciatura em Química, turno noite: 30 vagas no total. Distribuição por grupo de vaga: AC 11; AC_PCD 1; AA 0; LB_PPI 6; LB_Q 1; LB_PCD 1; LB_EP 1; LI_PPI 6; LI_Q 1; LI_PCD 1; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p58-119",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 58)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Ipojuca, curso Licenciatura em Química, turno noite: 36 vagas no total. Distribuição por grupo de vaga: AC 13; AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 1; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 1; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p57-094",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Barreiros, curso Tecnologia em Agroecologia, turno manhã: 40 vagas no total. Distribuição por grupo de vaga: AC 11; AC_PCD 1; AA 4; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 2; LI_EP 1."
+        },
+        {
+          "id": "tabela-A-p57-096",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)",
+          "texto": "Anexo A (Cursos de Graduação (presenciais)): campus Barreiros, curso Bacharelado em Agronomia, turno noite: 40 vagas no total. Distribuição por grupo de vaga: AC 11; AC_PCD 1; AA 4; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_PCD 2; LI_EP 1."
+        }
+      ],
       "tempos": {
-        "busca": 5.4,
-        "llm": 15.4
+        "busca": 3.9,
+        "llm": 16.8
       }
     },
     {
@@ -357,9 +789,36 @@
           "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.2 QUAIS SÃO AS CONDIÇÕES PARA AMAMENTAR DURANTE A PROVA? (p. 25)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-8.2",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.2 QUAIS SÃO AS CONDIÇÕES PARA AMAMENTAR DURANTE A PROVA? (p. 25)",
+          "texto": "A pessoa lactante que precisar amamentar durante a prova, além de solicitar as condições específicas, deve levar um ou uma acompanhante maior de idade no dia da prova. Essa pessoa ficará em uma sala reservada e será responsável por cuidar da criança.\nCaso a pessoa lactante não leve um ou uma acompanhante, não poderá fazer a prova."
+        },
+        {
+          "id": "item-8.1",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.1 HAVERÁ TEMPO ADICIONAL PARA QUEM FIZER A PROVA EM CONDIÇÕES ESPECÍFICAS? (pp. 24-25)",
+          "texto": "Sim, para alguns casos haverá acréscimo de tempo na aplicação da prova.\nCandidatos e candidatas com deficiência que tiverem a solicitação de atendimento especializado aprovada terão até 1 (uma) hora a mais para realizar a prova.\nAs pessoas que tiverem a necessidade poderão amamentar a cada intervalo de 2 (duas) horas, por até 30 (trinta) minutos por filho.  O tempo utilizado para a amamentação será acrescido ao tempo de realização da prova, pelo mesmo período.\n7 Pessoa em situação de classe hospitalar é aquela que realiza sua escolarização dentro de uma instituição hospitalar ou similar, enquanto permanece internada para tratamento de saúde. Não é considerada pessoa em situação de classe hospitalar aquela que estiver internada para realização de partos, cirurgias ou tratamentos esporádicos nas datas de aplicação da prova. Pessoas  que trabalham na área hospitalar também não pertencem a esse grupo.\nOs outros grupos aptos a solicitar prova em condições específicas não terão tempo adicional."
+        },
+        {
+          "id": "item-9.1",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.1 LOCAIS E HORÁRIOS DAS PROVAS (pp. 26-27)",
+          "texto": "Os horários das provas serão:\nPROVAS DE CURSOS\nTÉCNICOS INTEGRADOS\nPROVAS DE CURSOS\nDE GRADUAÇÃO\n7h45\nHorário recomendado para chegada no local de prova\n7h45\nHorário recomendado para chegada no local de prova\n8h\nAbertura dos portões\n8h\nAbertura dos portões\n8h45\nFechamento dos portões\n8h45\nFechamento dos portões\n9h\nInício da prova\n9h\nInício da prova\n10h\nPermissão para sair da sala de aplicação de prova\n10h\nPermissão para sair da sala de aplicação de prova\n12h\nTérmino das  provas\n13h\nTérmino das provas\n13h\nTérmino das provas com tempo adicional\n14h\nTérmino das provas com tempo adicional\nSe o início da prova sofrer atraso por causa de um problema técnico ou fenômeno da natureza, o tempo de prova será mantido. Ou seja, o tempo do atraso será acrescentado ao horário previsto para o término da prova.\nAcompanhantes não poderão entrar no prédio nos dias e horários das provas. Só é permitida a entrada de acompanhantes que cuidarem de crianças de pessoas lactantes que solicitaram o direito de amamentar durante a prova.\nATENÇÃO: Não haverá segunda chamada nem repetição das provas. O candidato ou a candidata que faltar ou chegar ao local de aplicação depois do horário de fechamento dos portões será automaticamente desclassificado ou desclassificada do Processo de Ingresso."
+        },
+        {
+          "id": "item-9.2",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.2 QUAIS CUIDADOS SÃO NECESSÁRIOS NO DIA DA PROVA? (p. 27)",
+          "texto": "O candidato ou a candidata deverá:\nchegar ao local da prova no dia e horário corretos (indicados no Cartão de Inscrição) com pelo menos 1 (uma) hora de antecedência;\nlevar documento oficial de identificação com foto e em bom estado de conservação;\nlevar caneta transparente de tinta preta."
+        },
+        {
+          "id": "item-9",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? (p. 26)",
+          "texto": "As provas acontecerão, preferencialmente, nos municípios onde está localizado o campus ou polo do IFPE para o qual o candidato ou a candidata escolheu concorrer. Se necessário, as provas também poderão ser aplicadas em municípios vizinhos.\nAs informações básicas sobre a aplicação da prova estarão disponíveis no Cartão de Inscrição. Nele, o candidato ou a candidata encontrará:\nseus dados pessoais;\no local onde fará a prova;\no horário de abertura e de fechamento dos portões; e o horário de início da prova.\nO candidato ou a candidata deverá acessar e emitir o Cartão de Inscrição na Área da Pessoa Candidata, na data indicada no ANEXO B. Recomenda-se imprimir o Cartão de Inscrição ou apresentar uma versão digital no dia da prova. Isso facilita a identificação do local de realização da prova e o acesso às informações necessárias.\nLEMBRE-SE: Só é possível fazer a prova no local indicado no Cartão de Inscrição."
+        }
+      ],
       "tempos": {
-        "busca": 5.3,
-        "llm": 21.4
+        "busca": 3.9,
+        "llm": 25.2
       }
     },
     {
@@ -379,9 +838,36 @@
           "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.2 QUAIS CUIDADOS SÃO NECESSÁRIOS NO DIA DA PROVA? (p. 27)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-9.1",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.1 LOCAIS E HORÁRIOS DAS PROVAS (pp. 26-27)",
+          "texto": "Os horários das provas serão:\nPROVAS DE CURSOS\nTÉCNICOS INTEGRADOS\nPROVAS DE CURSOS\nDE GRADUAÇÃO\n7h45\nHorário recomendado para chegada no local de prova\n7h45\nHorário recomendado para chegada no local de prova\n8h\nAbertura dos portões\n8h\nAbertura dos portões\n8h45\nFechamento dos portões\n8h45\nFechamento dos portões\n9h\nInício da prova\n9h\nInício da prova\n10h\nPermissão para sair da sala de aplicação de prova\n10h\nPermissão para sair da sala de aplicação de prova\n12h\nTérmino das  provas\n13h\nTérmino das provas\n13h\nTérmino das provas com tempo adicional\n14h\nTérmino das provas com tempo adicional\nSe o início da prova sofrer atraso por causa de um problema técnico ou fenômeno da natureza, o tempo de prova será mantido. Ou seja, o tempo do atraso será acrescentado ao horário previsto para o término da prova.\nAcompanhantes não poderão entrar no prédio nos dias e horários das provas. Só é permitida a entrada de acompanhantes que cuidarem de crianças de pessoas lactantes que solicitaram o direito de amamentar durante a prova.\nATENÇÃO: Não haverá segunda chamada nem repetição das provas. O candidato ou a candidata que faltar ou chegar ao local de aplicação depois do horário de fechamento dos portões será automaticamente desclassificado ou desclassificada do Processo de Ingresso."
+        },
+        {
+          "id": "item-9.2",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.2 QUAIS CUIDADOS SÃO NECESSÁRIOS NO DIA DA PROVA? (p. 27)",
+          "texto": "O candidato ou a candidata deverá:\nchegar ao local da prova no dia e horário corretos (indicados no Cartão de Inscrição) com pelo menos 1 (uma) hora de antecedência;\nlevar documento oficial de identificação com foto e em bom estado de conservação;\nlevar caneta transparente de tinta preta."
+        },
+        {
+          "id": "item-9",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? (p. 26)",
+          "texto": "As provas acontecerão, preferencialmente, nos municípios onde está localizado o campus ou polo do IFPE para o qual o candidato ou a candidata escolheu concorrer. Se necessário, as provas também poderão ser aplicadas em municípios vizinhos.\nAs informações básicas sobre a aplicação da prova estarão disponíveis no Cartão de Inscrição. Nele, o candidato ou a candidata encontrará:\nseus dados pessoais;\no local onde fará a prova;\no horário de abertura e de fechamento dos portões; e o horário de início da prova.\nO candidato ou a candidata deverá acessar e emitir o Cartão de Inscrição na Área da Pessoa Candidata, na data indicada no ANEXO B. Recomenda-se imprimir o Cartão de Inscrição ou apresentar uma versão digital no dia da prova. Isso facilita a identificação do local de realização da prova e o acesso às informações necessárias.\nLEMBRE-SE: Só é possível fazer a prova no local indicado no Cartão de Inscrição."
+        },
+        {
+          "id": "item-8.1",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.1 HAVERÁ TEMPO ADICIONAL PARA QUEM FIZER A PROVA EM CONDIÇÕES ESPECÍFICAS? (pp. 24-25)",
+          "texto": "Sim, para alguns casos haverá acréscimo de tempo na aplicação da prova.\nCandidatos e candidatas com deficiência que tiverem a solicitação de atendimento especializado aprovada terão até 1 (uma) hora a mais para realizar a prova.\nAs pessoas que tiverem a necessidade poderão amamentar a cada intervalo de 2 (duas) horas, por até 30 (trinta) minutos por filho.  O tempo utilizado para a amamentação será acrescido ao tempo de realização da prova, pelo mesmo período.\n7 Pessoa em situação de classe hospitalar é aquela que realiza sua escolarização dentro de uma instituição hospitalar ou similar, enquanto permanece internada para tratamento de saúde. Não é considerada pessoa em situação de classe hospitalar aquela que estiver internada para realização de partos, cirurgias ou tratamentos esporádicos nas datas de aplicação da prova. Pessoas  que trabalham na área hospitalar também não pertencem a esse grupo.\nOs outros grupos aptos a solicitar prova em condições específicas não terão tempo adicional."
+        },
+        {
+          "id": "tabela-B-p60-136",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Condições Específicas para Realização de Prova, atividade: Solicitação de condições específicas. Data: 14/10 a 13/11/2026 (da 0h do dia 14/10 até as 23h59 do dia 13/11). Local: Área da Pessoa Candidata."
+        }
+      ],
       "tempos": {
-        "busca": 5.4,
-        "llm": 20.4
+        "busca": 3.9,
+        "llm": 22.1
       }
     },
     {
@@ -394,16 +880,43 @@
       "tentativas": 1,
       "erro": "",
       "encontrou": true,
-      "resposta": "O pedido de isenção da taxa de inscrição deve ser feito dentro do período estabelecido pelo ANEXO B, que é de 14/10 a 26/10/2026.",
+      "resposta": "O pedido de isenção da taxa de inscrição pode ser feito entre 14/10 a 26/10/2026.",
       "fontes": [
         {
           "id": "tabela-B-p60-132",
           "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "item-5.1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.1 COMO FAZER O PEDIDO DE ISENÇÃO? (p. 16)",
+          "texto": "O pedido de isenção da taxa de inscrição deverá ser feito na Área da Pessoa Candidatas, acessada por meio do\nPortal IFPE (portal.ifpe.edu.br), dentro do período estabelecido pelo ANEXO B (Datas Importantes).\nDepois de acessar, o candidato ou a candidata preencherá o formulário de isenção no momento da inscrição e apresentará os documentos listados no ANEXO C."
+        },
+        {
+          "id": "tabela-B-p60-132",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Dispensa do Pagamento da Taxa de Inscrição, atividade: Pedido de isenção (dispensa do pagamento). Data: 14/10 a 26/10/2026 (da 0h do dia 14/10 até as 23h59 do dia 26/10). Local: Área da Pessoa Candidata."
+        },
+        {
+          "id": "item-5.2",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.2 COMO SABER QUEM TEVE DIREITO À ISENÇÃO DA TAXA DE INSCRIÇÃO? (p. 17)",
+          "texto": "A comissão organizadora analisará os documentos enviados no ato da inscrição. Depois da análise, a Lista\nPreliminar de Isentos será divulgada com os nomes das pessoas que tiveram a isenção confirmada e das que tiveram a isenção negada.\nAs pessoas que tiveram a isenção confirmada já estão isentas da taxa e terão automaticamente as inscrições confirmadas no Processo de Ingresso.\nATENÇÃO ÀS INFORMAÇÕES ENVIADAS: Erros como documentação incorreta, arquivos ilegíveis, informações incompletas ou diferentes dos documentos impedirão o candidato ou a candidata de ter direito à isenção da taxa."
+        },
+        {
+          "id": "item-5-1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. (p. 16)",
+          "texto": "O QUE DEVO FAZER?\nAquelas pessoas que não podem pagar a taxa de inscrição devem fazer um pedido de dispensa do pagamento da taxa. A dispensa do pagamento se chama isenção.\nA isenção da taxa de inscrição será concedida a quem fizer parte de algum dos grupos listados no quadro a seguir.\nGRUPO\nPÚBLICO\nMEMBROS DE\nFAMÍLIA DE BAIXA\nRENDA INSCRITOS\nNO CADÚNICO\nPessoas que, ao mesmo tempo:\na) comprovem a inscrição no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico);\ne b) sejam membros de família de baixa renda.\nATENÇÃO: O nome completo e o CPF informados na inscrição devem estar iguais aos registrados no\nCadÚnico.\nPARTICIPANTES DO\nPROEJA\nEstudantes participantes do PROEJA (integrado ou concomitante) ofertado pelo IFPE.\nPROIFPE ACESSO\nEstudantes participantes ou que tenham concluído o PROIFPE Acesso.\nPROGRAMA\nMULHERES MIL\nEstudantes participantes ou que tenham participado do Programa Mulheres Mil vinculado ao IFPE e/ ou seus dependentes.\nPOVOS DO CAMPO\nPessoas assentadas da reforma agrária, ocupantes de terras, ribeirinhos e ribeirinhas, agricultores e agricultoras familiares, pescadores e pescadoras, quilombolas, povos originários, posseiros e posseiras, trabalhadores e trabalhadoras rurais, ciganos e ciganas, extrativistas, artesãos e artesãs, marisqueiros e marisqueiras, trabalhadores e trabalhadoras de facção, bordadeiros e bordadeiras de jeans, remanescentes de senzalas, vaqueiros e vaqueiras, além de rendeiras ou seus e suas dependentes, que tenham cursado todo o Ensino Fundamental ou Médio, exclusivamente, em escolas públicas.\nINDÍGENA E\nQUILOMBOLA\nMembros de comunidades indígenas e quilombolas.\n50+\nPessoas a partir de 50 (cinquenta) anos de idade.\nPARTIUIF\nEstudantes participantes do Programa PartiuIF ofertado pelo IFPE."
+        },
+        {
+          "id": "item-5.3",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.3 O PEDIDO DE ISENÇÃO FOI NEGADO, O QUE FAZER? (p. 17)",
+          "texto": "Somente as pessoas que tiverem a isenção negada poderão apresentar pedido de revisão pela Área da Pessoa\nCandidata, no período estabelecido no ANEXO B. No pedido de revisão, o candidato ou a candidata poderá apresentar novos documentos e deverá informar os motivos do pedido.\nOs pedidos de revisão serão analisados, e a decisão anterior poderá ser mantida ou alterada.\nO resultado da análise dos pedidos de revisão será divulgado na Lista Final de Isentos, conforme as datas do\nANEXO B. A lista será divulgada no Portal do IFPE (portal.ifpe.edu.br).\nATENÇÃO: O candidato ou a candidata que tiver a isenção negada deverá fazer o pagamento da taxa de inscrição no período deste Edital. Essa será a única forma de se inscrever no\nProcesso de Ingresso depois da divulgação da Lista Final de Isentos."
+        }
+      ],
       "tempos": {
-        "busca": 4.3,
-        "llm": 22.6
+        "busca": 3.9,
+        "llm": 23.0
       }
     },
     {
@@ -423,9 +936,36 @@
           "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.3 O PEDIDO DE ISENÇÃO FOI NEGADO, O QUE FAZER? (p. 17)"
         }
       ],
+      "recuperados": [
+        {
+          "id": "tabela-B-p60-135",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Dispensa do Pagamento da Taxa de Inscrição, atividade: Publicação da Lista Final de Isentos. Data: 9/11/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "tabela-B-p61-165",
+          "rotulo": "Anexo B - Calendário - cursos com Análise de Desempenho (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Análise de Desempenho): etapa Dispensa do Pagamento da Taxa de Inscrição, atividade: Publicação da Lista Final de Isentos. Data: 9/11/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "tabela-B-p60-133",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)",
+          "texto": "Anexo B, calendário do processo (cursos com Aplicação de Provas): etapa Dispensa do Pagamento da Taxa de Inscrição, atividade: Publicação da Lista Preliminar de Isentos. Data: 3/11/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "tabela-B-p61-163",
+          "rotulo": "Anexo B - Calendário - cursos com Análise de Desempenho (p. 61)",
+          "texto": "Anexo B, calendário do processo (cursos com Análise de Desempenho): etapa Dispensa do Pagamento da Taxa de Inscrição, atividade: Publicação da Lista Preliminar de Isentos. Data: 3/11/2026. Local: https://portal.ifpe.edu.br/."
+        },
+        {
+          "id": "item-5.3",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.3 O PEDIDO DE ISENÇÃO FOI NEGADO, O QUE FAZER? (p. 17)",
+          "texto": "Somente as pessoas que tiverem a isenção negada poderão apresentar pedido de revisão pela Área da Pessoa\nCandidata, no período estabelecido no ANEXO B. No pedido de revisão, o candidato ou a candidata poderá apresentar novos documentos e deverá informar os motivos do pedido.\nOs pedidos de revisão serão analisados, e a decisão anterior poderá ser mantida ou alterada.\nO resultado da análise dos pedidos de revisão será divulgado na Lista Final de Isentos, conforme as datas do\nANEXO B. A lista será divulgada no Portal do IFPE (portal.ifpe.edu.br).\nATENÇÃO: O candidato ou a candidata que tiver a isenção negada deverá fazer o pagamento da taxa de inscrição no período deste Edital. Essa será a única forma de se inscrever no\nProcesso de Ingresso depois da divulgação da Lista Final de Isentos."
+        }
+      ],
       "tempos": {
-        "busca": 5.0,
-        "llm": 16.3
+        "busca": 3.9,
+        "llm": 17.9
       }
     }
   ]
