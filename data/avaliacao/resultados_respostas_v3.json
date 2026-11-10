@@ -1,0 +1,432 @@
+{
+  "resumo": {
+    "data": "2026-11-10T14:57:58",
+    "versao_prompt": "v3",
+    "total": 20,
+    "ok": 14,
+    "falhas": [
+      "q04",
+      "q08",
+      "q09",
+      "q10",
+      "q12",
+      "q14"
+    ]
+  },
+  "resultados": [
+    {
+      "id": "f01",
+      "tipo": "conhecimento geral",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Qual é a capital da França?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": false,
+      "resposta": "Não encontrei essa informação no edital.",
+      "fontes": [],
+      "tempos": {
+        "busca": 6.4,
+        "llm": 28.2
+      }
+    },
+    {
+      "id": "f02",
+      "tipo": "conhecimento geral",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Quem escreveu o livro Dom Casmurro?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": false,
+      "resposta": "Não encontrei essa informação no edital.",
+      "fontes": [],
+      "tempos": {
+        "busca": 5.0,
+        "llm": 27.0
+      }
+    },
+    {
+      "id": "f03",
+      "tipo": "seleção acadêmica, mas de outro processo",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Quando sai o resultado do SISU?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": false,
+      "resposta": "Não encontrei essa informação no edital.",
+      "fontes": [],
+      "tempos": {
+        "busca": 4.9,
+        "llm": 17.9
+      }
+    },
+    {
+      "id": "f04",
+      "tipo": "seleção acadêmica, mas de outro processo",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Como faço para me inscrever no ENEM deste ano?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": false,
+      "resposta": "Não encontrei essa informação no edital.",
+      "fontes": [],
+      "tempos": {
+        "busca": 4.4,
+        "llm": 27.4
+      }
+    },
+    {
+      "id": "f05",
+      "tipo": "plausível, mas não tratado no edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Qual é o valor da mensalidade dos cursos?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": false,
+      "resposta": "Não encontrei essa informação no edital.",
+      "fontes": [],
+      "tempos": {
+        "busca": 5.4,
+        "llm": 16.3
+      }
+    },
+    {
+      "id": "f06",
+      "tipo": "plausível, mas não tratado no edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Como funciona o programa de intercâmbio do IFPE?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": false,
+      "resposta": "Não encontrei essa informação no edital.",
+      "fontes": [],
+      "tempos": {
+        "busca": 5.5,
+        "llm": 22.1
+      }
+    },
+    {
+      "id": "q01",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Até quando posso pagar a taxa de inscrição?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "O pagamento da taxa de inscrição pode ser feito de 14/10 a 13/11/2026.",
+      "fontes": [
+        {
+          "id": "tabela-B-p60-130",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)"
+        }
+      ],
+      "tempos": {
+        "busca": 4.6,
+        "llm": 19.6
+      }
+    },
+    {
+      "id": "q02",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Qual o valor da taxa de inscrição para cursos de graduação?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "R$ 55",
+      "fontes": [
+        {
+          "id": "item-4.3",
+          "rotulo": "4 COMO FAZER A INSCRIÇÃO? > 4.3 QUANTO CUSTA A INSCRIÇÃO? (p. 15)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.4,
+        "llm": 19.0
+      }
+    },
+    {
+      "id": "q03",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Quantas vagas são oferecidas em cursos de graduação?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "940 vagas",
+      "fontes": [
+        {
+          "id": "tabela-A-p58-117",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 58)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.4,
+        "llm": 15.8
+      }
+    },
+    {
+      "id": "q04",
+      "tipo": "edital",
+      "ok": false,
+      "motivo": "respondeu sem o conteudo esperado (conferir se e parfrase)",
+      "pergunta": "Haverá tempo adicional na prova para pessoas com deficiência?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "Sim, para pessoas com deficiência que tiverem a solicitação de atendimento especializado aprovada, haverá tempo adicional de 1 (uma) hora para realizar a prova.",
+      "fontes": [
+        {
+          "id": "item-8.1",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.1 HAVERÁ TEMPO ADICIONAL PARA QUEM FIZER A PROVA EM CONDIÇÕES ESPECÍFICAS? (pp. 24-25)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.0,
+        "llm": 25.0
+      }
+    },
+    {
+      "id": "q05",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Qual a data da divulgação do resultado final das provas?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "O resultado final das provas será divulgado em 21/12/2026.",
+      "fontes": [
+        {
+          "id": "tabela-B-p60-155",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)"
+        }
+      ],
+      "tempos": {
+        "busca": 4.4,
+        "llm": 16.5
+      }
+    },
+    {
+      "id": "q06",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Quando começam as aulas no campus Ipojuca?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "As aulas no campus Ipojuca começam em 27/1/2027.",
+      "fontes": [
+        {
+          "id": "tabela-B-p62-196",
+          "rotulo": "Anexo B - Previsão de início das aulas (p. 62)"
+        }
+      ],
+      "tempos": {
+        "busca": 4.5,
+        "llm": 14.9
+      }
+    },
+    {
+      "id": "q07",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Como é feita a verificação da autodeclaração de pessoas pretas e pardas?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "A autodeclaração de pessoas pretas e pardas será verificada com base em suas características físicas (fenótipo), como cor da pele, cabelo e traços do rosto. Uma banca será responsável por verificar e analisar o vídeo enviado pela candidata ou pelo candidato, que precisa mostrar a pessoa de frente para a câmera por 3 segundos e dizer com clareza: “Eu, (seu nome completo), CPF (número do CPF), candidato ou candidata do Processo de Ingresso - Entrada 2027.1 do IFPE, me autodeclaro como pessoa preta ou parda.”",
+      "fontes": [
+        {
+          "id": "item-6.1",
+          "rotulo": "6 ETAPA DE VERIFICAÇÃO ÉTNICO-RACIAL (PARA PESSOAS PRETAS, PARDAS, INDÍGENAS E QUILOMBOLAS) > 6.1 VERIFICAÇÃO DA AUTODECLARAÇÃO PARA PESSOAS PRETAS OU PARDAS (p. 18)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.5,
+        "llm": 28.9
+      }
+    },
+    {
+      "id": "q08",
+      "tipo": "edital",
+      "ok": false,
+      "motivo": "respondeu sem o conteudo esperado (conferir se e parfrase)",
+      "pergunta": "Quais documentos preciso para o pedido de isenção da taxa de inscrição?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "O pedido de isenção da taxa de inscrição deverá ser feito na Área da Pessoa Candidatas, acessada por meio do Portal IFPE (portal.ifpe.edu.br), dentro do período estabelecido pelo ANEXO B (Datas Importantes). O candidato ou a candidata preencherá o formulário de isenção no momento da inscrição e apresentará os documentos listados no ANEXO C.",
+      "fontes": [
+        {
+          "id": "item-5.1",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.1 COMO FAZER O PEDIDO DE ISENÇÃO? (p. 16)"
+        },
+        {
+          "id": "item-5.2",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.2 COMO SABER QUEM TEVE DIREITO À ISENÇÃO DA TAXA DE INSCRIÇÃO? (p. 17)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.5,
+        "llm": 26.1
+      }
+    },
+    {
+      "id": "q09",
+      "tipo": "edital",
+      "ok": false,
+      "motivo": "respondeu sem o conteudo esperado (conferir se e parfrase)",
+      "pergunta": "O que significa a sigla LB_PPI?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "Candidatos autodeclarados pretos, pardos ou indígenas, com renda familiar bruta per capita igual ou inferior a 1 salário mínimo, que tenham cursado integralmente o ensino fundamental, quando concorrer a curso técnico integrado ao ensino médio, ou integralmente o ensino médio, quando concorrer a curso técnico subsequente ou de graduação, em escola pública ou em escola comunitária que atue na educação do campo conveniada com o poder público.",
+      "fontes": [
+        {
+          "id": "anexo-O-1",
+          "rotulo": "Anexo O - QUADRO DE REMANEJAMENTO DE VAGAS (LEI Nº 14.723/2023) (p. 79)"
+        }
+      ],
+      "tempos": {
+        "busca": 4.6,
+        "llm": 33.8
+      }
+    },
+    {
+      "id": "q10",
+      "tipo": "edital",
+      "ok": false,
+      "motivo": "respondeu sem o conteudo esperado (conferir se e parfrase)",
+      "pergunta": "Quais vagas existem para Licenciatura em Química no campus Barreiros?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "40 vagas",
+      "fontes": [
+        {
+          "id": "tabela-A-p57-095",
+          "rotulo": "Anexo A - Cursos de Graduação (presenciais) (p. 57)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.4,
+        "llm": 15.4
+      }
+    },
+    {
+      "id": "q11",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Posso levar acompanhante para amamentar durante a prova?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "Sim, a pessoa lactante deve levar um acompanhante maior de idade, que fica com a criança em sala reservada. Sem acompanhante, ela não poderá fazer a prova.",
+      "fontes": [
+        {
+          "id": "item-8.2",
+          "rotulo": "8 QUEM PODE PEDIR PARA FAZER PROVA EM CONDIÇÕES ESPECÍFICAS? > 8.2 QUAIS SÃO AS CONDIÇÕES PARA AMAMENTAR DURANTE A PROVA? (p. 25)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.3,
+        "llm": 21.4
+      }
+    },
+    {
+      "id": "q12",
+      "tipo": "edital",
+      "ok": false,
+      "motivo": "respondeu sem o conteudo esperado (conferir se e parfrase)",
+      "pergunta": "A que horas abrem os portões no dia da prova?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "Os portões abrem às 8h e fecham às 8h45 no dia da prova.",
+      "fontes": [
+        {
+          "id": "item-9.2",
+          "rotulo": "9 COMO SERÁ A APLICAÇÃO DAS PROVAS? > 9.2 QUAIS CUIDADOS SÃO NECESSÁRIOS NO DIA DA PROVA? (p. 27)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.4,
+        "llm": 20.4
+      }
+    },
+    {
+      "id": "q13",
+      "tipo": "edital",
+      "ok": true,
+      "motivo": "",
+      "pergunta": "Qual o prazo para pedir a isenção da taxa de inscrição?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "O pedido de isenção da taxa de inscrição deve ser feito dentro do período estabelecido pelo ANEXO B, que é de 14/10 a 26/10/2026.",
+      "fontes": [
+        {
+          "id": "tabela-B-p60-132",
+          "rotulo": "Anexo B - Calendário - cursos com Aplicação de Provas (p. 60)"
+        }
+      ],
+      "tempos": {
+        "busca": 4.3,
+        "llm": 22.6
+      }
+    },
+    {
+      "id": "q14",
+      "tipo": "edital",
+      "ok": false,
+      "motivo": "respondeu sem o conteudo esperado (conferir se e parfrase)",
+      "pergunta": "Quando será publicada a lista final de isentos?",
+      "versao": "v3",
+      "tentativas": 1,
+      "erro": "",
+      "encontrou": true,
+      "resposta": "A lista final de isentos será divulgada conforme as datas do ANEXO B.",
+      "fontes": [
+        {
+          "id": "item-5.3",
+          "rotulo": "5 NÃO POSSO PAGAR A TAXA DE INSCRIÇÃO. > 5.3 O PEDIDO DE ISENÇÃO FOI NEGADO, O QUE FAZER? (p. 17)"
+        }
+      ],
+      "tempos": {
+        "busca": 5.0,
+        "llm": 16.3
+      }
+    }
+  ]
+}

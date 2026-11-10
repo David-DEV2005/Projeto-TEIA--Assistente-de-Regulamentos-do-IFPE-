@@ -1,0 +1,11 @@
+{
+  "descricao": "Perguntas fora do escopo do Edital IFPE 2027.1 (Etapa 3.5). O comportamento correto e recusar: encontrou=false e resposta 'Não encontrei essa informação no edital.'.",
+  "perguntas": [
+    {"id": "f01", "pergunta": "Qual é a capital da França?", "tipo": "conhecimento geral"},
+    {"id": "f02", "pergunta": "Quem escreveu o livro Dom Casmurro?", "tipo": "conhecimento geral"},
+    {"id": "f03", "pergunta": "Quando sai o resultado do SISU?", "tipo": "seleção acadêmica, mas de outro processo"},
+    {"id": "f04", "pergunta": "Como faço para me inscrever no ENEM deste ano?", "tipo": "seleção acadêmica, mas de outro processo"},
+    {"id": "f05", "pergunta": "Qual é o valor da mensalidade dos cursos?", "tipo": "plausível, mas não tratado no edital"},
+    {"id": "f06", "pergunta": "Como funciona o programa de intercâmbio do IFPE?", "tipo": "plausível, mas não tratado no edital"}
+  ]
+}
