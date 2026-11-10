@@ -21,4 +21,4 @@ def gerar(mensagens, temperatura=None, json_mode=False):
         )
         return r["message"]["content"]
 
-    return r.choices[0].message.content
+    raise ValueError(f"Provedor {provedor!r} não suportado. Use LLM_PROVIDER=ollama.")
