@@ -1,0 +1,13 @@
+{
+  "descricao": "Conteudo escrito a mao a partir da figura da pagina 12 do edital, que a extracao automatica nao consegue interpretar.",
+  "itens": [
+    {
+      "tipo": "curado",
+      "id": "curado-p12-exemplo-40-vagas",
+      "pagina": 12,
+      "item": "2.5",
+      "titulo": "Exemplo visual da distribuição das vagas para um curso com 40 vagas",
+      "texto": "Exemplo visual da distribuição das vagas para um curso com 40 vagas (figura da página 12 do edital). Ampla Concorrência (AC): 15 vagas. Cotas: AC_PCD 1; AA 0; LB_PPI 8; LB_Q 1; LB_PCD 2; LB_EP 1; LI_PPI 8; LI_Q 1; LI_EP 1; LI_PCD 2. Total: 40 vagas. Observação: na figura original, o rótulo da coluna LB_Q aparece em branco; o código foi identificado pela posição da coluna e conferido com as linhas de 40 vagas do Anexo A."
+    }
+  ]
+}
